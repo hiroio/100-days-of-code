@@ -8,14 +8,15 @@
 * Install GitHub Desktop and learn to Commit/Upload.
 * Customize Atom UI.
 * B2W: Lectures 7-9; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* Fiddle around with Wordpress theme and pages/text on Blog
 
 **Language(s):** HTML5, jQuery
 
 **Course(s):** Wordpress Theme Development with Bootstrap (udemy) -> B2W
 
-**Thoughts:**
+**Thoughts:** First day of #100DaysOfCode! Figured out how to use GitHub, which I was meaning to do for weeks, and set up Atom Editor UI preferences. Started the actual coding process on B2W. I began the challenge on a whim, but I'm glad I was able to get most things set up so that it is easier to continue for the days/weeks/months to come.
 
-**Link(s) to Work:** N/A
+**Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
 
 **Links to Resources:**
 * [freeCodeCamp](http://freecodecamp.org)
