@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 2: 9/10/2017
+
+**Today's Progress:**
+* B2W: Lectures 10-; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* Re-learn how to use Google Fonts.
+* Bootstrap Navigation
+
+**Language(s):** HTML5, CSS, Bootstrap
+
+**Course(s):** Wordpress Theme Development with Bootstrap (udemy) -> B2W
+
+**Thoughts:**
+
+**Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+
+**Links to Resources:**
+* [Font Awesome](http://fontawesome.io)
+* [Google Fonts](https://fonts.google.com/)
+* [Bootstrap Documentations](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+
+
 ### Day 1: 9/9/2017
 
 **Today's Progress:**
