@@ -8,3 +8,6 @@
 * [Font Awesome](http://fontawesome.io)
 * [Google Fonts](https://fonts.google.com/)
 * [TypeKit](http://typekit.com)
+
+### Resources
+* [w3schools](https://www.w3schools.com/)

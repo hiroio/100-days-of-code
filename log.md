@@ -3,15 +3,17 @@
 ### Day 2: 9/10/2017
 
 **Today's Progress:**
-* B2W: Lectures 10-; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* B2W: Lectures 10-13; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
 * Re-learn how to use Google Fonts.
-* Bootstrap Navigation
+* Bootstrap Navigation.
+* Installed FileZilla to this computer.
+* Tried to figure out why my collapsed navigation won't expand, but couldn't. [w3schools](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp)
 
 **Language(s):** HTML5, CSS, Bootstrap
 
-**Course(s):** Wordpress Theme Development with Bootstrap (udemy) -> B2W
+**Course(s):** B2W
 
-**Thoughts:**
+**Thoughts:** A little disappointed I couldn't figure out why the navigation in its collapsed form won't expand in the B2W theme I'm creating, despite going through and confirming everything matches (even the documentation on w3).  Hopefully in the coming days I'll see something or the instructor will go over some small period we missed that makes his copy and my copy different!  Otherwise, "Font Awesome" was a pretty cool find.  Hope to use it soon for my blog.
 
 **Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
 
@@ -19,6 +21,7 @@
 * [Font Awesome](http://fontawesome.io)
 * [Google Fonts](https://fonts.google.com/)
 * [Bootstrap Documentations](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* [Bootstrap 3 Tutorials](https://www.w3schools.com/bootstrap/)
 
 
 ### Day 1: 9/9/2017
