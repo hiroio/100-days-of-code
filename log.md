@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 3: 9/11/2017
+
+**Today's Progress:**
+* B2W: Lectures 10-13; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* Issue from yesterday: resolved by adding bootstrap.min.js script. [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+
+**Language(s):** HTML5, CSS, Bootstrap
+
+**Course(s):** B2W
+
+**Thoughts:**
+
+**Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+
+**Links to Resources:**
+
+
 ### Day 2: 9/10/2017
 
 **Today's Progress:**
