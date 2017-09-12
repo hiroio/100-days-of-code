@@ -3,24 +3,25 @@
 ### Day 3: 9/11/2017
 
 **Today's Progress:**
-* B2W: Lectures 10-13; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* B2W: Lectures 13-14; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
 * Issue from yesterday: resolved by adding bootstrap.min.js script. [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* Refreshers on CSS and Bootstrap integration into CSS.
 
 **Language(s):** HTML5, CSS, Bootstrap
 
 **Course(s):** B2W
 
-**Thoughts:**
+**Thoughts:**  For some reason, custom.css wasn't getting pulled in to the wp-theme-01, and caused a lot of issues.  And then just as strangely, the issue just went away.  So not too sure what happened there.  There are still kinkls, but I think I need to look at it over again tomorrow with a fresh set of eyes.
 
 **Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
 
 **Links to Resources:**
-
+* [Bootstrap: Grid System](https://getbootstrap.com/docs/3.3/css/#grid)
 
 ### Day 2: 9/10/2017
 
 **Today's Progress:**
-* B2W: Lectures 10-13; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* B2W: Lectures 10-12; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
 * Re-learn how to use Google Fonts.
 * Bootstrap Navigation.
 * Installed FileZilla to this computer.
