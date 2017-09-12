@@ -11,3 +11,8 @@
 
 ### Resources
 * [w3schools](https://www.w3schools.com/)
+
+
+### Other Stuff
+* [Gist](https://gist.github.com) - Save Code to send
+* [repl.it](http://repl.it) - Execute Code in browser
