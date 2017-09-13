@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 4: 9/12/2017
+
+**Today's Progress:**
+* B2W: Lectures 15-16; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* Learned about the [Parallax Effect](https://code.tutsplus.com/tutorials/a-simple-parallax-scrolling-technique--net-27641).
+* Learning more about Bootstrap
+
+**Language(s):** HTML5, CSS, Bootstrap, Javascript
+
+**Course(s):** B2W
+
+**Thoughts:**  Learning about new effects on front end that I wasn't aware of before, troubleshooting minor bugs, and wondering why things just don't work properly. It's nice to get back to "reading" code again, and understand what is doing what, and why certain things are inputted a certain way.  Hope with a few more weeks, I'll be back to "reading" CSS and HTML and "writing" them I used to back in high school.  
+Finally dabbled in Javascript.  It'll be whiles yet until I'll be comfortable even trying to decipher what's going on there, but glad it's not as foreign looking as I had feared.
+
+**Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+
+**Links to Resources:**
+* [Tutsplus](https://tutsplus.com)
+
+
 ### Day 3: 9/11/2017
 
 **Today's Progress:**
@@ -17,6 +37,7 @@
 
 **Links to Resources:**
 * [Bootstrap: Grid System](https://getbootstrap.com/docs/3.3/css/#grid)
+
 
 ### Day 2: 9/10/2017
 
