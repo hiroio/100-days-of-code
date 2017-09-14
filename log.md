@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 5: 9/13/2017
+
+**Today's Progress:**
+* B2W: Lectures 17-19; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* Watched video on the basics of Wordpress Themes [YouTube](https://www.youtube.com/watch?v=oTRZYnYQlmo)
+* Learned about [Modals](https://www.w3schools.com/bootstrap/bootstrap_modal.asp).  Obviously wouldn't work properly.
+
+**Language(s):** HTML5, CSS, Bootstrap, Javascript
+
+**Course(s):** B2W
+
+**Thoughts:**  More CSS review; I would have been inclined to "cheat" by adding stylesheet elements directly into the file, but I guess it's much better practice to add it in to the css file.  Spent some time setting up Project Management boards for projects to take on after learning how to create Wordpress Themes.  Will probably start with [Burgundy for Life](http://burgundyforlife.org) because the layout I'm thinking about most closely resembles what we are creating in the course.  Watched a video on the "basics" (the REAL basics) of how to create Wordpress Themes, and now I feel like I am a step closer to putting it all together at the end.  The Modal prompt loads but then immediately goes away, which is strange. It doesn't seem to be a "browser issue" either, as it happens in both Chrome and Firefox.  Another mystery for another day of problem solving.
+
+**Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+
+**Links to Resources:**
+* [Learning PHP WordPress Development for Beginners](https://www.youtube.com/watch?v=tfrr38hbQ-M)
+
+
 ### Day 4: 9/12/2017
 
 **Today's Progress:**
