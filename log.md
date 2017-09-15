@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 6: 9/14/2017
+
+**Today's Progress:**
+* B2W: Lectures 20-21; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* Learned about CSS Sprites and how to use/code for them in CSS
+* Reading up on Grid System in Bootstrap
+
+**Language(s):** HTML5, CSS, Bootstrap, Javascript
+
+**Course(s):** B2W
+
+**Thoughts:**  More new concepts like Sprites learned.  Finally looking into what the numbers next to col-sm-6, etc. are by reading up on how the grid system works in Bootstrap. 12 is the magic number!  Not sure what the difference is between "Strikethrough Text" and "Deleted Text" but I'm sure there's some semantic difference between the two (same with "Inserted Text" an "Underlined Text").
+
+**Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+
+**Links to Resources:**
+* [CSS Sprites](https://css-tricks.com/css-sprites/)
+* [CSS in Bootstrap](https://getbootstrap.com/docs/3.3/css/)
+
+
 ### Day 5: 9/13/2017
 
 **Today's Progress:**
