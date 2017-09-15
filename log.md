@@ -12,6 +12,7 @@
 **Course(s):** B2W
 
 **Thoughts:**  More new concepts like Sprites learned.  Finally looking into what the numbers next to col-sm-6, etc. are by reading up on how the grid system works in Bootstrap. 12 is the magic number!  Not sure what the difference is between "Strikethrough Text" and "Deleted Text" but I'm sure there's some semantic difference between the two (same with "Inserted Text" an "Underlined Text").
+Project idea: Want to look into doing a "rotating quote" page/website for the AVM survey responses to encourage survivors and caregivers. [1](https://stackoverflow.com/questions/15614461/rotating-quotes-jquery) [2](http://codeandreload.com/wp-plugins/nicequotes/) [3](http://www.wpbeginner.com/wp-tutorials/how-to-add-rotating-testimonials-in-wordpress/) [4](https://codepen.io/htmlr/pen/dslfL)
 
 **Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
 
