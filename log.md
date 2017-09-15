@@ -19,6 +19,7 @@ Project idea: Want to look into doing a "rotating quote" page/website for the AV
 **Links to Resources:**
 * [CSS Sprites](https://css-tricks.com/css-sprites/)
 * [CSS in Bootstrap](https://getbootstrap.com/docs/3.3/css/)
+* [Create Carousel with Bootstrap](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-carousel.php)
 
 
 ### Day 5: 9/13/2017
