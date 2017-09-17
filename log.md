@@ -5,10 +5,13 @@
 **Today's Progress:**
 * Reading Bootstrap documentation from [GetBootstrap](http://getbootstrap.com) to comprehend the concept better.
 * Enrolled in to [Skillcrush 10-Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/); Completed Day 1.
+* Creating template for first project: Redoing [hirokonishimura.com](http://hirokonishimura.com) (Portfolio).
+* Starting the template with Bootstrap template to see the process of designing/coding website using Bootstrap.
+* Learning a little more about how to create new repositories on Github Desktop.
 
-**Language(s):** Bootstrap
+**Language(s):** Bootstrap, HTML5, CSS
 
-**Course(s):** 
+**Course(s):**
 * Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
 * [Skillcrush 10 Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/)
 
