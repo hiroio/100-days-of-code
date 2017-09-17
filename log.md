@@ -12,10 +12,10 @@
 **Language(s):** Bootstrap, HTML5, CSS
 
 **Course(s):**
-* Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
 * [Skillcrush 10 Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/)
 
-**Thoughts:**
+**Thoughts:** Took a break from the Wordpress Theme course for the day and looked for other sources about Bootstrap.  Also started a 10 day "bootcamp" on the fundamentals of starting a career in tech.  Started brainstorming about portfolio layout. 
 
 **Link(s) to Work:** N/A
 
