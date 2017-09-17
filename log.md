@@ -4,10 +4,13 @@
 
 **Today's Progress:**
 * Reading Bootstrap documentation from [GetBootstrap](http://getbootstrap.com) to comprehend the concept better.
+* Enrolled in to [Skillcrush 10-Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/); Completed Day 1.
 
 **Language(s):** Bootstrap
 
-**Course(s):** [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+**Course(s):** 
+* Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+* [Skillcrush 10 Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/)
 
 **Thoughts:**
 
