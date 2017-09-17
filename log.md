@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 7: 9/16/2017
+
+**Today's Progress:**
+* Reading Bootstrap documentation from [GetBootstrap](http://getbootstrap.com) to comprehend the concept better.
+
+**Language(s):** Bootstrap
+
+**Course(s):** [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+
+**Thoughts:**
+
+**Link(s) to Work:** N/A
+
+**Links to Resources:**
+* [GetBootstrap](http://getbootstrap.com)
+* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+
+
 ### Day 6: 9/14/2017
 
 **Today's Progress:**
