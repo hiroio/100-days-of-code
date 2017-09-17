@@ -11,6 +11,7 @@
 
 ### Resources
 * [w3schools](https://www.w3schools.com/)
+* [Modernizr](https://modernizr.com/)
 
 
 ### Other Stuff
