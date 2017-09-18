@@ -15,6 +15,8 @@
 
 **Thoughts:** Delving a little deeper into the concept of "UI/UX/Front End Developer." Still a lot of thinking required before I can solidify what exactly I want to strive for and do. Exhausted from the chemo and socializing over the weekend, so couldn't get much coding in.  Still going through the Bootstrap beginner crash course on YouTube.  Found the DevFreeBooks resource, so may start reading some of them on tablet for HTML and Javascript.
 
+I have so many "habits" and "daily to-do's," it would be cool to have one of my projects be a ticker kind of like the GitHub contribution chart, where there are bunches of boxes that gets colored in when I do a certain task and mark it as complete for the day.  Not sure where to even start with coding up something like that though.
+
 **Link(s) to Work:** [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com)
 
 **Links to Resources:**
