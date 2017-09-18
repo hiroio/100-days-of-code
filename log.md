@@ -3,9 +3,9 @@
 ### Day 8: 9/17/2017
 
 **Today's Progress:**
-* Skillcrush 10 Day Bootcamp Day 3
-* Playing around with creating containers and templates for [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com)
-* Brainstorming layouts
+* Skillcrush 10 Day Bootcamp Day 3.
+* Playing around with creating containers and templates for [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com).
+* Brainstorming layouts; added in the Bootstrap files.
 
 **Language(s):** Bootstrap, HTML5, CSS
 
