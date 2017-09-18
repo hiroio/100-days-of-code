@@ -1,10 +1,32 @@
 # 100 Days Of Code - Log
 
+### Day 8: 9/17/2017
+
+**Today's Progress:**
+* Skillcrush 10 Day Bootcamp Day 3
+* Playing around with creating containers and templates for [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com)
+* Brainstorming layouts
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+* [Skillcrush 10 Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/)
+
+**Thoughts:**
+
+**Link(s) to Work:** [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com)
+
+**Links to Resources:**
+* [GetBootstrap](http://getbootstrap.com)
+* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+
+
 ### Day 7: 9/16/2017
 
 **Today's Progress:**
 * Reading Bootstrap documentation from [GetBootstrap](http://getbootstrap.com) to comprehend the concept better.
-* Enrolled in to [Skillcrush 10-Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/); Completed Day 1.
+* Enrolled in to [Skillcrush 10-Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/); Completed Day 1 and 2.
 * Creating template for first project: Redoing [hirokonishimura.com](http://hirokonishimura.com) (Portfolio).
 * Starting the template with Bootstrap template to see the process of designing/coding website using Bootstrap.
 * Learning a little more about how to create new repositories on Github Desktop.
