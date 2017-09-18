@@ -3,7 +3,7 @@
 ### Day 8: 9/17/2017
 
 **Today's Progress:**
-* Skillcrush 10 Day Bootcamp Day 3.
+* Skillcrush 10 Day Bootcamp Day 3 + 4: HTML.
 * Playing around with creating containers and templates for [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com).
 * Brainstorming layouts; added in the Bootstrap files.
 
@@ -13,13 +13,14 @@
 * [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
 * [Skillcrush 10 Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/)
 
-**Thoughts:**
+**Thoughts:** Delving a little deeper into the concept of "UI/UX/Front End Developer." Still a lot of thinking required before I can solidify what exactly I want to strive for and do. Exhausted from the chemo and socializing over the weekend, so couldn't get much coding in.  Still going through the Bootstrap beginner crash course on YouTube.  Found the DevFreeBooks resource, so may start reading some of them on tablet for HTML and Javascript.
 
 **Link(s) to Work:** [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com)
 
 **Links to Resources:**
 * [GetBootstrap](http://getbootstrap.com)
 * [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+* [DevFreeBooks](https://devfreebooks.github.io)
 
 
 ### Day 7: 9/16/2017
