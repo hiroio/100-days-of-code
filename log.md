@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 9: 9/18/2017
+
+**Today's Progress**
+* Replaced  style="text-align: center;" CSS tag with class="text-center" Bootstrap class.
+* Bootstrap Beginner Crash Course continued
+* SKillcrush 10 Day Bootcamp Day 5 + 6: CSS, Javascript, Visual Design, UX/UI
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+* [Skillcrush 10 Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/)
+
+**Thoughts:** From the Visual Design/UX/UI section of the 10 Day Bootcamp, I figured out I am probably aiming to be a Web Designer or a UX Designer (since I can't really draw/icon).  UI designers and Graphic Designers make things pretty. I would love to get into Graphic Designing (as long as it doesn't require drawing) at some point though. I also remembered today that I still want to get into Portrait Photography. Maybe one of these days, I'll have enough free time to learn everything I want to learn.  Having fun moving things around in the very basic and bare template I'm creating (that's more for practice, and less for practical use) for the portfolio.  Looking for key words and phrases to accent my portfolio with, too.  Mindfulness in words! I think I want to make my designs benefit from Minimalism as well.
+
+**Link(s) to Work:** [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com)
+
+**Links to Resources:**
+* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+
 ### Day 8: 9/17/2017
 
 **Today's Progress:**
