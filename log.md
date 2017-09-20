@@ -3,6 +3,25 @@
 ### Day 10: 9/19/2017
 
 **Today's Progress**
+* SKillcrush 10 Day Bootcamp Day 9 + 10: Programming Languages, PHP. Completed Bootcamp.
+
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+* [Skillcrush 10 Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/) - Completed.
+
+**Thoughts:**
+
+**Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:** Completed the [Skillcrush 10 Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/).  As basic as the content was, it was informational in the most basic level (which I honestly needed), like the difference between Web Designer, UX Designer, UI Designer, and Graphic Designer.  HTML runs in your browser, and PHP runs in the server.
+
+
+### Day 10: 9/19/2017
+
+**Today's Progress**
 * Purchased [hiroko.io](https://github.com/hiroko/hiroko.io) to replace hirokonishimura.com.
 * Bootstrap Beginner Crash Course continued
 * SKillcrush 10 Day Bootcamp Day 7 + 8: FrontEnd/BackEnd, Wordpress.
