@@ -6,6 +6,7 @@
 
 ### Fonts
 * [Font Awesome](http://fontawesome.io)
+* [Font Awesome Cheatsheet](http://fontawesome.io/cheatsheet/)
 * [Google Fonts](https://fonts.google.com/)
 * [TypeKit](http://typekit.com)
 
@@ -14,6 +15,7 @@
 * [Modernizr](https://modernizr.com/)
 * [Bootstrap](http://getbootstrap.com)
 * [DevFreeBooks](https://devfreebooks.github.io)
+* [Code Newbie: Resources](https://www.codenewbie.org/learn)
 
 ### Other Stuff
 * [Gist](https://gist.github.com) - Save Code to send

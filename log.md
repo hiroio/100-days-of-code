@@ -1,11 +1,34 @@
 # 100 Days Of Code - Log
 
+### Day 10: 9/19/2017
+
+**Today's Progress**
+* Purchased [hiroko.io](https://github.com/hiroko/hiroko.io) to replace hirokonishimura.com.
+* Bootstrap Beginner Crash Course continued
+* SKillcrush 10 Day Bootcamp Day 7 + 8: FrontEnd/BackEnd, Wordpress.
+* Learned how to use [Font Awesome](http://fontawesome.io/cheatsheet/) icons, and utilized in [hiroko.io](https://github.com/hiroko/hiroko.io) to practice.
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+* [Skillcrush 10 Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/)
+
+**Thoughts:** Last night, I was able to score "hiroko" as my Github username.  Excited, I purchased hiroko.io this morning, to match.  Now I'm doubly excited and motivated to create a portfolio to test out and play with everything I am learning at the moment and everything I'm about to learn in the upcoming weeks.  It's double digits now! Still playing around with CSS and HTML, and slowly re-learning CSS3. Figured out how to use [Font Awesome](http://fontawesome.io/cheatsheet/) icons, and read up on a few documentations for it.  Playing around with Bootstrap columns and rows, and debugging the code.
+
+**Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Code Newbie: Resources](https://www.codenewbie.org/learn)
+* [Font Awesome Cheatsheet](http://fontawesome.io/cheatsheet/)
+
 ### Day 9: 9/18/2017
 
 **Today's Progress**
 * Replaced  style="text-align: center;" CSS tag with class="text-center" Bootstrap class.
-* Bootstrap Beginner Crash Course continued
-* SKillcrush 10 Day Bootcamp Day 5 + 6: CSS, Javascript, Visual Design, UX/UI
+* Bootstrap Beginner Crash Course continued.
+* SKillcrush 10 Day Bootcamp Day 5 + 6: CSS, Javascript, Visual Design, UX/UI.
+* div class="clearfix" to "clear" DIV properties.
 
 **Language(s):** Bootstrap, HTML5, CSS
 
@@ -15,7 +38,7 @@
 
 **Thoughts:** From the Visual Design/UX/UI section of the 10 Day Bootcamp, I figured out I am probably aiming to be a Web Designer or a UX Designer (since I can't really draw/icon).  UI designers and Graphic Designers make things pretty. I would love to get into Graphic Designing (as long as it doesn't require drawing) at some point though. I also remembered today that I still want to get into Portrait Photography. Maybe one of these days, I'll have enough free time to learn everything I want to learn.  Having fun moving things around in the very basic and bare template I'm creating (that's more for practice, and less for practical use) for the portfolio.  Looking for key words and phrases to accent my portfolio with, too.  Mindfulness in words! I think I want to make my designs benefit from Minimalism as well.
 
-**Link(s) to Work:** [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com)
+**Link(s) to Work:** [hirokonishimura.com](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
 * [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
@@ -24,7 +47,7 @@
 
 **Today's Progress:**
 * Skillcrush 10 Day Bootcamp Day 3 + 4: HTML.
-* Playing around with creating containers and templates for [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com).
+* Playing around with creating containers and templates for [hirokonishimura.com](https://github.com/hiroko/hiroko.io).
 * Brainstorming layouts; added in the Bootstrap files.
 
 **Language(s):** Bootstrap, HTML5, CSS
@@ -37,7 +60,7 @@
 
 I have so many "habits" and "daily to-do's," it would be cool to have one of my projects be a ticker kind of like the GitHub contribution chart, where there are bunches of boxes that gets colored in when I do a certain task and mark it as complete for the day.  Not sure where to even start with coding up something like that though.
 
-**Link(s) to Work:** [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com)
+**Link(s) to Work:** [hirokonishimura.com](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
 * [GetBootstrap](http://getbootstrap.com)
@@ -50,7 +73,7 @@ I have so many "habits" and "daily to-do's," it would be cool to have one of my 
 **Today's Progress:**
 * Reading Bootstrap documentation from [GetBootstrap](http://getbootstrap.com) to comprehend the concept better.
 * Enrolled in to [Skillcrush 10-Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/); Completed Day 1 and 2.
-* Creating template for first project: Redoing [hirokonishimura.com](http://hirokonishimura.com) (Portfolio).
+* Creating template for first project: Redoing [hirokonishimura.com](https://github.com/hiroko/hiroko.io) (Portfolio).
 * Starting the template with Bootstrap template to see the process of designing/coding website using Bootstrap.
 * Learning a little more about how to create new repositories on Github Desktop.
 
@@ -62,7 +85,7 @@ I have so many "habits" and "daily to-do's," it would be cool to have one of my 
 
 **Thoughts:** Took a break from the Wordpress Theme course for the day and looked for other sources about Bootstrap.  Also started a 10 day "bootcamp" on the fundamentals of starting a career in tech.  Started brainstorming about portfolio layout/content, and started a new repository for it.
 
-**Link(s) to Work:** [hirokonishimura.com](https://github.com/hironyc/hirokonishimura.com)
+**Link(s) to Work:** [hirokonishimura.com](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
 * [GetBootstrap](http://getbootstrap.com)
@@ -72,7 +95,7 @@ I have so many "habits" and "daily to-do's," it would be cool to have one of my 
 ### Day 6: 9/14/2017
 
 **Today's Progress:**
-* B2W: Lectures 20-21; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* B2W: Lectures 20-21; [wp-theme-01](https://github.com/hiroko/wp-theme-01)
 * Learned about CSS Sprites and how to use/code for them in CSS
 * Reading up on Grid System in Bootstrap
 
@@ -94,7 +117,7 @@ Project idea: Want to look into doing a "rotating quote" page/website for the AV
 ### Day 5: 9/13/2017
 
 **Today's Progress:**
-* B2W: Lectures 17-19; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* B2W: Lectures 17-19; [wp-theme-01](https://github.com/hiroko/wp-theme-01)
 * Watched video on the basics of Wordpress Themes [YouTube](https://www.youtube.com/watch?v=oTRZYnYQlmo)
 * Learned about [Modals](https://www.w3schools.com/bootstrap/bootstrap_modal.asp).  Obviously wouldn't work properly.
 
@@ -104,7 +127,7 @@ Project idea: Want to look into doing a "rotating quote" page/website for the AV
 
 **Thoughts:**  More CSS review; I would have been inclined to "cheat" by adding stylesheet elements directly into the file, but I guess it's much better practice to add it in to the css file.  Spent some time setting up Project Management boards for projects to take on after learning how to create Wordpress Themes.  Will probably start with [Burgundy for Life](http://burgundyforlife.org) because the layout I'm thinking about most closely resembles what we are creating in the course.  Watched a video on the "basics" (the REAL basics) of how to create Wordpress Themes, and now I feel like I am a step closer to putting it all together at the end.  The Modal prompt loads but then immediately goes away, which is strange. It doesn't seem to be a "browser issue" either, as it happens in both Chrome and Firefox.  Another mystery for another day of problem solving.  I just realized that even though I commit both repositories, Github only counts it as 1 commit a day. Rude!
 
-**Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+**Link(s) to Work:** [wp-theme-01](https://github.com/hiroko/wp-theme-01)
 
 **Links to Resources:**
 * [Learning PHP WordPress Development for Beginners](https://www.youtube.com/watch?v=tfrr38hbQ-M)
@@ -113,7 +136,7 @@ Project idea: Want to look into doing a "rotating quote" page/website for the AV
 ### Day 4: 9/12/2017
 
 **Today's Progress:**
-* B2W: Lectures 15-16; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* B2W: Lectures 15-16; [wp-theme-01](https://github.com/hiroko/wp-theme-01)
 * Learned about the [Parallax Effect](https://code.tutsplus.com/tutorials/a-simple-parallax-scrolling-technique--net-27641).
 * Learning more about Bootstrap
 
@@ -124,7 +147,7 @@ Project idea: Want to look into doing a "rotating quote" page/website for the AV
 **Thoughts:**  Learning about new effects on front end that I wasn't aware of before, troubleshooting minor bugs, and wondering why things just don't work properly. It's nice to get back to "reading" code again, and understand what is doing what, and why certain things are inputted a certain way.  Hope with a few more weeks, I'll be back to "reading" CSS and HTML and "writing" them I used to back in high school.  
 Finally dabbled in Javascript.  It'll be whiles yet until I'll be comfortable even trying to decipher what's going on there, but glad it's not as foreign looking as I had feared.
 
-**Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+**Link(s) to Work:** [wp-theme-01](https://github.com/hiroko/wp-theme-01)
 
 **Links to Resources:**
 * [Tutsplus](https://tutsplus.com)
@@ -133,7 +156,7 @@ Finally dabbled in Javascript.  It'll be whiles yet until I'll be comfortable ev
 ### Day 3: 9/11/2017
 
 **Today's Progress:**
-* B2W: Lectures 13-14; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* B2W: Lectures 13-14; [wp-theme-01](https://github.com/hiroko/wp-theme-01)
 * Issue from yesterday: resolved by adding bootstrap.min.js script. [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 * Refreshers on CSS and Bootstrap integration into CSS.
 
@@ -143,7 +166,7 @@ Finally dabbled in Javascript.  It'll be whiles yet until I'll be comfortable ev
 
 **Thoughts:**  For some reason, custom.css wasn't getting pulled in to the wp-theme-01, and caused a lot of issues.  And then just as strangely, the issue just went away.  So not too sure what happened there.  There are still kinkls, but I think I need to look at it over again tomorrow with a fresh set of eyes.
 
-**Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+**Link(s) to Work:** [wp-theme-01](https://github.com/hiroko/wp-theme-01)
 
 **Links to Resources:**
 * [Bootstrap: Grid System](https://getbootstrap.com/docs/3.3/css/#grid)
@@ -152,7 +175,7 @@ Finally dabbled in Javascript.  It'll be whiles yet until I'll be comfortable ev
 ### Day 2: 9/10/2017
 
 **Today's Progress:**
-* B2W: Lectures 10-12; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* B2W: Lectures 10-12; [wp-theme-01](https://github.com/hiroko/wp-theme-01)
 * Re-learn how to use Google Fonts.
 * Bootstrap Navigation.
 * Installed FileZilla to this computer.
@@ -164,7 +187,7 @@ Finally dabbled in Javascript.  It'll be whiles yet until I'll be comfortable ev
 
 **Thoughts:** A little disappointed I couldn't figure out why the navigation in its collapsed form won't expand in the B2W theme I'm creating, despite going through and confirming everything matches (even the documentation on w3).  Hopefully in the coming days I'll see something or the instructor will go over some small period we missed that makes his copy and my copy different!  Otherwise, "Font Awesome" was a pretty cool find.  Hope to use it soon for my blog.
 
-**Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+**Link(s) to Work:** [wp-theme-01](https://github.com/hiroko/wp-theme-01)
 
 **Links to Resources:**
 * [Font Awesome](http://fontawesome.io)
@@ -177,10 +200,10 @@ Finally dabbled in Javascript.  It'll be whiles yet until I'll be comfortable ev
 
 **Today's Progress:**
 * Set up Github account and play around with web interface.
-* Set up [100 Days of Code](https://github.com/hironyc/100-days-of-code) Repo.
+* Set up [100 Days of Code](https://github.com/hiroko/100-days-of-code) Repo.
 * Install GitHub Desktop and learn to Commit/Upload.
 * Customize Atom UI.
-* B2W: Lectures 7-9; [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+* B2W: Lectures 7-9; [wp-theme-01](https://github.com/hiroko/wp-theme-01)
 * Fiddle around with Wordpress theme and pages/text on Blog
 
 **Language(s):** HTML5, jQuery
@@ -189,7 +212,7 @@ Finally dabbled in Javascript.  It'll be whiles yet until I'll be comfortable ev
 
 **Thoughts:** First day of #100DaysOfCode! Figured out how to use GitHub, which I was meaning to do for weeks, and set up Atom Editor UI preferences. Started the actual coding process on B2W. I began the challenge on a whim, but I'm glad I was able to get most things set up so that it is easier to continue for the days/weeks/months to come.
 
-**Link(s) to Work:** [wp-theme-01](https://github.com/hironyc/wp-theme-01)
+**Link(s) to Work:** [wp-theme-01](https://github.com/hiroko/wp-theme-01)
 
 **Links to Resources:**
 * [freeCodeCamp](http://freecodecamp.org)
