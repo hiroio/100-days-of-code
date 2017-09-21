@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 10: 9/19/2017
+### Day 11: 9/20/2017
 
 **Today's Progress**
-* SKillcrush 10 Day Bootcamp Day 9 + 10: Programming Languages, PHP. Completed Bootcamp.
-
+* Skillcrush 10 Day Bootcamp Day 9 + 10: Programming Languages, PHP. Completed Bootcamp.
+* Stylesheet editing and learning.
+* Using Bootstrap official documentation to learn and implement components.
 
 **Language(s):** Bootstrap, HTML5, CSS
 
 **Course(s):**
-* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
 * [Skillcrush 10 Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/) - Completed.
 
 **Thoughts:**
@@ -18,13 +18,15 @@
 
 **Links to Resources:** Completed the [Skillcrush 10 Day Bootcamp](https://learn.skillcrush.com/classes/skillcrush-10-day-bootcamp-wpcw/).  As basic as the content was, it was informational in the most basic level (which I honestly needed), like the difference between Web Designer, UX Designer, UI Designer, and Graphic Designer.  HTML runs in your browser, and PHP runs in the server.
 
+Worked on the portfolio layout.  Something that started out as just playing around with effects may turn into an actual layout. Slowly adding parts in while learning about them.  Because the B2W course's Bootstrap version is outdated, I have to research every effect I want to implement that I learned about in the course (which is honestly pretty good way to practice).
+
 
 ### Day 10: 9/19/2017
 
 **Today's Progress**
 * Purchased [hiroko.io](https://github.com/hiroko/hiroko.io) to replace hirokonishimura.com.
 * Bootstrap Beginner Crash Course continued
-* SKillcrush 10 Day Bootcamp Day 7 + 8: FrontEnd/BackEnd, Wordpress.
+* Skillcrush 10 Day Bootcamp Day 7 + 8: FrontEnd/BackEnd, Wordpress.
 * Learned how to use [Font Awesome](http://fontawesome.io/cheatsheet/) icons, and utilized in [hiroko.io](https://github.com/hiroko/hiroko.io) to practice.
 
 **Language(s):** Bootstrap, HTML5, CSS
@@ -40,6 +42,7 @@
 **Links to Resources:**
 * [Code Newbie: Resources](https://www.codenewbie.org/learn)
 * [Font Awesome Cheatsheet](http://fontawesome.io/cheatsheet/)
+
 
 ### Day 9: 9/18/2017
 
@@ -61,6 +64,7 @@
 
 **Links to Resources:**
 * [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+
 
 ### Day 8: 9/17/2017
 
