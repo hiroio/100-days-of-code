@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 11: 9/20/2017
+### Day 13: 9/22/2017
+
+**Today's Progress**
+* Fixed the navbar anchor overshooting problem by using .span tag in the headers, and tweaking the css so that the stylesheet does not break down because of the edit. [Stackoverflow](https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header)
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+
+**Thoughts:** 
+
+**Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [StackOverflow: Offsetting HTML Anchor](https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header)
+
+
+### Day 12: 9/21/2017
 
 **Today's Progress**
 * Google Fonts and how to use them.
