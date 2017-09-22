@@ -3,6 +3,26 @@
 ### Day 11: 9/20/2017
 
 **Today's Progress**
+* Google Fonts and how to use them.
+* Trying to figure out Anchor Tags in HTML5.
+* Learned and implemented [Scrollspy](https://getbootstrap.com/docs/4.0/components/scrollspy/) in Bootstrap for the main navigation.
+* CSS tests.
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+
+**Thoughts:**
+
+**Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Scrollspy](https://getbootstrap.com/docs/4.0/components/scrollspy/)
+
+
+### Day 11: 9/20/2017
+
+**Today's Progress**
 * Skillcrush 10 Day Bootcamp Day 9 + 10: Programming Languages, PHP. Completed Bootcamp.
 * Stylesheet editing and learning.
 * Using Bootstrap official documentation to learn and implement components.
