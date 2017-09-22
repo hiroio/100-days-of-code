@@ -7,17 +7,21 @@
 * Trying to figure out Anchor Tags in HTML5.
 * Learned and implemented [Scrollspy](https://getbootstrap.com/docs/4.0/components/scrollspy/) in Bootstrap for the main navigation.
 * CSS tests.
+* Extensive troubleshooting for ACTIVE being on the wrong link at page load. (Resolved)
+* Extensive troubleshooting for Y-coordinate being off at Anchor.
+* To Do: Make the NAVBAR into list.
 
 **Language(s):** Bootstrap, HTML5, CSS
 
 **Course(s):**
 
-**Thoughts:**
+**Thoughts:** Spent way too long on the navigation troubleshooting... But learned and applied Scrollspy, and troubleshooted the incorrect highlighting issue at page load (CONTACT was being highlighted instead of ME).  Now need to resolve the fact that the Anchor link from the navigation overshoots the actual ID by 50PX.  Something to do with Y-value needing to be anchored... But not sure what that means or how to fix it. Maybe tomorrow. A lot of stylesheet tasks done today to style the overall layout.
 
 **Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
 * [Scrollspy](https://getbootstrap.com/docs/4.0/components/scrollspy/)
+* [How to Create Scrollspy](https://www.w3schools.com/bootstrap/bootstrap_scrollspy.asp)
 
 
 ### Day 11: 9/20/2017
