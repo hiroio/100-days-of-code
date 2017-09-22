@@ -4,17 +4,19 @@
 
 **Today's Progress**
 * Fixed the navbar anchor overshooting problem by using .span tag in the headers, and tweaking the css so that the stylesheet does not break down because of the edit. [Stackoverflow](https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header)
+* Rounded corners on images!!
 
 **Language(s):** Bootstrap, HTML5, CSS
 
 **Course(s):**
 
-**Thoughts:** 
+**Thoughts:**
 
 **Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
 * [StackOverflow: Offsetting HTML Anchor](https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header)
+* [w3schools: CSS3 border-radius Property](https://www.w3schools.com/cssref/css3_pr_border-radius.asp)
 
 
 ### Day 12: 9/21/2017
