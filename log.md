@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 14: 9/23/2017
+
+**Today's Progress**
+
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+
+**Thoughts:**
+
+**Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+
+
+
 ### Day 13: 9/22/2017
 
 **Today's Progress**
@@ -12,7 +29,7 @@
 
 **Course(s):**
 
-**Thoughts:**
+**Thoughts:** I got a few things I was working on troubleshooting/creating to work, like the navigation overshooting the anchor tag, and making the image (to-be-links) in portfolio all fancy with CSS.  In the process, I broke the scrollspy, so there's that.  Found out it seems like it only works with DIVs and not SPANs, but the span is necessary in order to get the anchor links to work so... I guess it's more important I have the navigation working more than little shiny gimmicks... But it's stil sad because it was working fine.  Figured out how to make the rounded images effect, so used it for the "profile photo" and the portfolio images.
 
 **Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
 
