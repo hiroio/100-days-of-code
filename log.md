@@ -5,6 +5,8 @@
 **Today's Progress**
 * Fixed the navbar anchor overshooting problem by using .span tag in the headers, and tweaking the css so that the stylesheet does not break down because of the edit. [Stackoverflow](https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header)
 * Rounded corners on images!!
+* [CCS-Tricks: Text Blocks Over Image](https://css-tricks.com/text-blocks-over-image/)
+* What does [Justify-Content](https://css-tricks.com/almanac/properties/j/justify-content/) actually mean?
 
 **Language(s):** Bootstrap, HTML5, CSS
 
