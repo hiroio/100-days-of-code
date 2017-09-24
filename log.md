@@ -5,12 +5,13 @@
 **Today's Progress**
 * Removed Scrollspy code from index.html: fixed the margin issue (container-fluid wasn't making the width 100%).
 * Moved content around on the page.
+* Added "About Me" and "Resources" sections and removed the "Lorem Ipsum" content box.
 
 **Language(s):** Bootstrap, HTML5, CSS
 
 **Course(s):**
 
-**Thoughts:**
+**Thoughts:**  Yesterday was the "I want to do this, let's figure out how" day, and today was the "Why doesn't this look exactly the way I want?" day.  Spent most of the time tweaking code and moving things around to make them look nicer.
 
 **Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
 
