@@ -3,7 +3,8 @@
 ### Day 14: 9/23/2017
 
 **Today's Progress**
-
+* Removed Scrollspy code from index.html: fixed the margin issue (container-fluid wasn't making the width 100%).
+* Moved content around on the page.
 
 **Language(s):** Bootstrap, HTML5, CSS
 
