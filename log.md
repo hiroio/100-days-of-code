@@ -12,14 +12,16 @@
 **Language(s):** Bootstrap, HTML5, CSS
 
 **Course(s):**
+* Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
 
-**Thoughts:**  Yesterday was the "I want to do this, let's figure out how" day, and today was the "Why doesn't this look exactly the way I want?" day.  Spent most of the time tweaking code and moving things around to make them look nicer. Mostly spent time troubleshooting. Joined #Javascript30.  Might start looking into it tomorrow or next week.  Also signed up for freeCodeCamp.
+**Thoughts:**  Yesterday was the "I want to do this, let's figure out how" day, and today was the "Why doesn't this look exactly the way I want?" day.  Spent most of the time tweaking code and moving things around to make them look nicer. Mostly spent time troubleshooting. Joined #Javascript30.  Might start looking into it tomorrow or next week.  Began the Front End Web Development course on freeCodeCamp.  Going to look into the HTML and CSS courses on Code Academy as well.
 
 **Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
 * [#Javascript30](http://javascript30.com)
 * [freeCodeCamp](https://www.freecodecamp.org)
+* [Code Academy](http://codeacademy.com)
 
 
 ### Day 13: 9/22/2017

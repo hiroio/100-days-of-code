@@ -20,6 +20,7 @@
 ### Courses
 * [freeCodeCamp](https://www.freecodecamp.org)
 * [Javascript 30](https://javascript30.com/)
+* [Code Academy](https://www.codecademy.com/)
 
 ### Resources
 * [#100DaysOfCode](http://100daysofcode.org)
