@@ -3,7 +3,10 @@
 ### Day 15: 9/24/2017
 
 **Today's Progress**
-* "Learn HTML": Completed section 1: Introduction to HTML
+* CodeAcademy: Learn HTML: Elements and Structure completed.
+* "Technical Experiences" style-sheeted up.
+* Starting formatting of the "Work Experiences" section.
+* Finally fiddled with the margins up top of the page.
 
 **Language(s):** Bootstrap, HTML5, CSS
 
