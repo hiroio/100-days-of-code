@@ -18,7 +18,7 @@
 **Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
-
+* [#Javascript30](http://javascript30.com)
 
 
 ### Day 13: 9/22/2017
