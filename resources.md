@@ -10,12 +10,18 @@
 * [Google Fonts](https://fonts.google.com/)
 * [TypeKit](http://typekit.com)
 
-### Resources
+### HTML/CSS/Bootstrap
 * [w3schools](https://www.w3schools.com/)
 * [Modernizr](https://modernizr.com/)
 * [Bootstrap](http://getbootstrap.com)
 * [DevFreeBooks](https://devfreebooks.github.io)
 * [Code Newbie: Resources](https://www.codenewbie.org/learn)
+
+### Javascript
+* [Javascript 30](https://javascript30.com/)
+
+### Resources
+* [#100DaysOfCode](http://100daysofcode.org)
 
 ### Other Stuff
 * [Gist](https://gist.github.com) - Save Code to send
