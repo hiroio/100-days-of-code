@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 15: 9/24/2017
+
+**Today's Progress**
+* "Learn HTML": Completed section 1: Introduction to HTML
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
+* Learn HTML on [Code Academy](https://www.codecademy.com/learn/learn-html)
+
+**Thoughts:**  
+
+**Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [#Javascript30](http://javascript30.com)
+* [freeCodeCamp](https://www.freecodecamp.org)
+* [Code Academy](http://codeacademy.com)
+
+
 ### Day 14: 9/23/2017
 
 **Today's Progress**
