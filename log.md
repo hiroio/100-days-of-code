@@ -3,7 +3,7 @@
 ### Day 15: 9/24/2017
 
 **Today's Progress**
-* CodeAcademy: Learn HTML: Elements and Structure completed.
+* CodeAcademy: Learn HTML completed.
 * "Technical Experiences" style-sheeted up.
 * Starting formatting of the "Work Experiences" section.
 * Finally fiddled with the margins up top of the page.
@@ -14,7 +14,7 @@
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
 * Learn HTML on [Code Academy](https://www.codecademy.com/learn/learn-html)
 
-**Thoughts:**  
+**Thoughts:**  Completed the "Learn HTML" course in CodeAcademy.  Next up is the CSS course.  Working on stylistic issues.  The DIVs at the "Technical Experiences" section giving me issues with different browser sizes.  Just can't get it to look good in all.
 
 **Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
 
