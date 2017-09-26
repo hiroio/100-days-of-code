@@ -2,4 +2,4 @@
 100 Days of Code Challenge (Start: 9/9/2017)
 
 ### Projects
-* Portfolio Revamp: [hiroko.io](https://github.com/hiroko/hiroko.io)
+* Portfolio Revamp: [hiroko.io](https://github.com/hiroko/hiroko.io) (9/16/2017 ~)
