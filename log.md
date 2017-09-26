@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 16: 9/25/2017
+
+**Today's Progress**
+* Learn CSS course on Code Academy.
+* Added writing.html and its child pages to portfolio.
+* [PDF embed with HTML](https://pdfobject.com/static.html). (Maybe Javascript in the future?)
+* Cleaning up code (removing justify-content-center from columns).
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
+* Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
+
+**Thoughts:**  Glad there was not much styling necessary to make the portfolio navigation image act as a link (just a border="0").  The PDF embed via <object> is a little messy, but at least it works fine (doesn't look the best).  Not sure if there's really any way to make it look any better, and having a download link works.  On mobile, it doesn't work, but it has the fall-back "click here to download" link, so it should be fine.  Not sure what other works I will put on there, but I guess I'll go and collect stuff I've written to put on there.
+Not sure if individual .html pages is the best way to go (especially because I can't get metrics), but it'll have to do until I figure out a better solution.  PHP seems a little over the top, especially because the navigations I want won't be the same. 
+
+**Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+
+
 ### Day 15: 9/24/2017
 
 **Today's Progress**
