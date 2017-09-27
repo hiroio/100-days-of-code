@@ -25,6 +25,10 @@
 ### Resources
 * [#100DaysOfCode](http://100daysofcode.org)
 * [PDFObject](https://pdfobject.com/)
+* [Color-Hex](http://www.color-hex.com/)
+
+### Theme Inspirations
+* [3rd Wave Media](https://themes.3rdwavemedia.com/)
 
 ### Other Stuff
 * [Gist](https://gist.github.com) - Save Code to send

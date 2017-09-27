@@ -5,6 +5,7 @@
 
 **Today's Progress**
 * Made the "about me" section a [Media Object](https://getbootstrap.com/docs/4.0/layout/media-object/).
+* Created a footer.  Now if only it'd stick to the bottom of the page!
 
 **Language(s):** Bootstrap, HTML5, CSS
 
@@ -12,12 +13,12 @@
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
 * Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
 
-**Thoughts:**  
+**Thoughts:**  General tinkering of the portfolio and styling.  Trying to find issues and troubleshoot them.  Next up os trying to figure out how to "stick" the footer to the bottom. Need to also figure out how to have the small columns for the "skills" so they don't "bleed out" in smaller frames (like the macbook air I am using at training).
 
 **Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
-* [PDFObject](https://pdfobject.com/)
+* [Color-Hex](http://www.color-hex.com/)
 
 
 ### Day 16: 9/25/2017
