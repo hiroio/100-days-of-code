@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+
+### Day 17: 9/26/2017
+
+**Today's Progress**
+* Made the "about me" section a [Media Object](https://getbootstrap.com/docs/4.0/layout/media-object/).
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
+* Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
+
+**Thoughts:**  
+
+**Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [PDFObject](https://pdfobject.com/)
+
+
 ### Day 16: 9/25/2017
 
 **Today's Progress**
