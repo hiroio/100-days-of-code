@@ -4,6 +4,7 @@
 * [9 Places You Can Learn How to Code For Free](https://www.inc.com/larry-kim/9-places-you-can-learn-how-to-code-for-free.html)
 * [450 Free Online Programming & Computer Science Courses You Can Start in August](https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-august-dbf3cb657274)
 * [Code First Girls](http://www.codefirstgirls.org.uk/teach-yourself.html)
+* [Women Who Code](https://www.womenwhocode.com/resources)
 
 ### Fonts
 * [Font Awesome](http://fontawesome.io)
