@@ -6,6 +6,7 @@
 **Today's Progress**
 * Made the "about me" section a [Media Object](https://getbootstrap.com/docs/4.0/layout/media-object/).
 * Created a footer.  Now if only it'd stick to the bottom of the page!
+* Claimed [hiroko.github.io](http://hiroko.github.io).
 
 **Language(s):** Bootstrap, HTML5, CSS
 
