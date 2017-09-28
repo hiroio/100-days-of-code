@@ -4,6 +4,7 @@
 
 **Today's Progress**
 * Fiddling around with content placement.
+* FreeCodeCamp.
 
 **Language(s):** Bootstrap, HTML5, CSS
 
