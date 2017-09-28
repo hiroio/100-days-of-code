@@ -12,7 +12,7 @@
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
 * Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
 
-**Thoughts:**  
+**Thoughts:**  Not much coding or learning today except some FreeCodeCamp pages, because JAMF CCT certification exam tomorrow afternoon.  Edited the portfolio a little bit for text and layout orientation.
 
 **Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
 
