@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 18: 9/27/2017
+
+**Today's Progress**
+* Fiddling around with content placement.
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
+* Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
+
+**Thoughts:**  
+
+**Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+
 
 ### Day 17: 9/26/2017
 
