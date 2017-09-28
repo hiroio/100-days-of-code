@@ -12,7 +12,7 @@
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
 * Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
 
-**Thoughts:**  Not much coding or learning today except some FreeCodeCamp pages, because JAMF CCT certification exam tomorrow afternoon.  Edited the portfolio a little bit for text and layout orientation.
+**Thoughts:**  Not much coding or learning today except some FreeCodeCamp pages, because JAMF CCT certification exam tomorrow afternoon.  Edited the portfolio a little bit for text and layout orientation.  Need to get back into the WPTHEME course so I can learn how to make Bootstrap into Wordpress.  Still contemplating whether I want to keep the portfolio pure HTML/CSS or embed Bootstrap to it.
 
 **Link(s) to Work:** [hiroko.io](https://github.com/hiroko/hiroko.io)
 
