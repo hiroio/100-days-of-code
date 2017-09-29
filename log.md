@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 19: 9/28/2017
+### Day 20: 9/29/2017
 
 **Today's Progress**
 * Codecademy: CSS: The Box Model
@@ -21,6 +21,7 @@
 
 **Links to Resources:**
 * [The A11y Project](http://a11yproject.com/)
+* [Dash @ General Assembly](https://dash.generalassemb.ly/)
 
 
 ### Day 19: 9/28/2017
