@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 19: 9/28/2017
+
+**Today's Progress**
+* Fixed DIV issues on mobile for the "About Me" section.
+* Codecademy: CSS "Setup and Selectors" and "Selectors and Visual Rules" completed.
+* Testing some CSS on [hiroko.github.io](http://hiroko.github.io).
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
+* Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hiroko.github.io](http://hiroko.github.io)
+
+**Links to Resources:**
+* [Border Styles](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style#Values)
+
 ### Day 18: 9/27/2017
 
 **Today's Progress**
