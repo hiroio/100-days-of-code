@@ -4,7 +4,7 @@
 
 **Today's Progress**
 * Fixed DIV issues on mobile for the "About Me" section.
-* Codecademy: CSS "Setup and Selectors" and "Selectors and Visual Rules" completed.
+* Codecademy: CSS "Setup and Selectors" and "Selectors and Visual Rules" completed.  Half way through the "Box Model."
 * Testing some CSS on [hiroko.github.io](http://hiroko.github.io).
 
 **Language(s):** Bootstrap, HTML5, CSS
@@ -13,7 +13,7 @@
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
 * Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
 
-**Thoughts:**  
+**Thoughts:**  Implementing and testing out some CSS properties from the Codecademy website. Fixed the mobile issue on the "About Me" section I found last night.  After the portfolio, I'll make a "landing page" for the fullname domain so I have a sample of a "landing page website" I can offer people as a service.
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
@@ -21,6 +21,7 @@
 
 **Links to Resources:**
 * [Border Styles](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style#Values)
+
 
 ### Day 18: 9/27/2017
 
