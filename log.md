@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+
+### Day 19: 9/28/2017
+
+**Today's Progress**
+* Codecademy: CSS: The Box Model
+* Reading up on the [A11y Project](http://a11yproject.com/) for accessibility.
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
+* Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hiroko.github.io](http://hiroko.github.io)
+
+**Links to Resources:**
+* [The A11y Project](http://a11yproject.com/)
+
+
 ### Day 19: 9/28/2017
 
 **Today's Progress**
