@@ -4,7 +4,8 @@
 
 **Today's Progress**
 * Trying to figure out Javascript for "quote rotation" script provided by a Twitter follower.
-
+* Starting the clean-up process of [Burgundy for Life](http://burgundyforlife.org) for AVM Awareness Month.
+* Created new Github repo: [burgundyforlife](https://github.com/hiroko/burgundyforlife).
 
 **Language(s):** Bootstrap, HTML5, CSS
 
@@ -15,6 +16,7 @@
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [burgundyforlife](https://github.com/hiroko/burgundyforlife)
 
 **Links to Resources:**
 * [The A11y Project](http://a11yproject.com/)
