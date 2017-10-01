@@ -1,17 +1,40 @@
 # 100 Days Of Code - Log
 
+### Day 21: 9/30/2017
+
+**Today's Progress**
+* "Fixed" the issue of "Technical Experiences" text boxes collapsing too much by setting minimum width to the #Tech element.
+* Add in more content to the "Technical Experiences" boxes.
+* CSS course on Codecademy.
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hiroko.github.io](http://hiroko.github.io)
+
+**Links to Resources:**
+* [The A11y Project](http://a11yproject.com/)
+* [Dash @ General Assembly](https://dash.generalassemb.ly/)
+
 
 ### Day 20: 9/29/2017
 
 **Today's Progress**
-* Codecademy: CSS: The Box Model
+* Codecademy: CSS: The Box Model.
 * Reading up on the [A11y Project](http://a11yproject.com/) for accessibility.
+* Signed up for Dash at General Assembly.
 
 **Language(s):** Bootstrap, HTML5, CSS
 
 **Course(s):**
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
-* Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
+* Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
 
 **Thoughts:**  
 
@@ -35,7 +58,7 @@
 
 **Course(s):**
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
-* Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
+* Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
 
 **Thoughts:**  Implementing and testing out some CSS properties from the Codecademy website. Fixed the mobile issue on the "About Me" section I found last night.  After the portfolio, I'll make a "landing page" for the fullname domain so I have a sample of a "landing page website" I can offer people as a service.
 
@@ -57,7 +80,7 @@
 
 **Course(s):**
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
-* Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
+* Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
 
 **Thoughts:**  Not much coding or learning today except some FreeCodeCamp pages, because JAMF CCT certification exam tomorrow afternoon.  Edited the portfolio a little bit for text and layout orientation.  Need to get back into the WPTHEME course so I can learn how to make Bootstrap into Wordpress.  Still contemplating whether I want to keep the portfolio pure HTML/CSS or embed Bootstrap to it.
 
@@ -77,7 +100,7 @@
 
 **Course(s):**
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
-* Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
+* Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
 
 **Thoughts:**  General tinkering of the portfolio and styling.  Trying to find issues and troubleshoot them.  Next up os trying to figure out how to "stick" the footer to the bottom. Need to also figure out how to have the small columns for the "skills" so they don't "bleed out" in smaller frames (like the macbook air I am using at training).
 
@@ -99,7 +122,7 @@
 
 **Course(s):**
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
-* Learn CSS on [Code Academy](https://www.codecademy.com/learn/learn-html)
+* Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
 
 **Thoughts:**  Glad there was not much styling necessary to make the portfolio navigation image act as a link (just a border="0").  The PDF embed via <object> is a little messy, but at least it works fine (doesn't look the best).  Not sure if there's really any way to make it look any better, and having a download link works.  On mobile, it doesn't work, but it has the fall-back "click here to download" link, so it should be fine.  Not sure what other works I will put on there, but I guess I'll go and collect stuff I've written to put on there.
 Not sure if individual .html pages is the best way to go (especially because I can't get metrics), but it'll have to do until I figure out a better solution.  PHP seems a little over the top, especially because the navigations I want won't be the same.
@@ -121,7 +144,7 @@ Not sure if individual .html pages is the best way to go (especially because I c
 
 **Course(s):**
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
-* Learn HTML on [Code Academy](https://www.codecademy.com/learn/learn-html)
+* Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
 
 **Thoughts:**  Completed the "Learn HTML" course in CodeAcademy.  Next up is the CSS course.  Working on stylistic issues.  The DIVs at the "Technical Experiences" section giving me issues with different browser sizes.  Just can't get it to look good in all.
 
@@ -154,7 +177,7 @@ Not sure if individual .html pages is the best way to go (especially because I c
 **Links to Resources:**
 * [#Javascript30](http://javascript30.com)
 * [freeCodeCamp](https://www.freecodecamp.org)
-* [Code Academy](http://codeacademy.com)
+* [Codecademy](http://codeacademy.com)
 
 
 ### Day 13: 9/22/2017
