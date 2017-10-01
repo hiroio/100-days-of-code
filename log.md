@@ -6,6 +6,7 @@
 * "Fixed" the issue of "Technical Experiences" text boxes collapsing too much by setting minimum width to the #Tech element.
 * Add in more content to the "Technical Experiences" boxes.
 * CSS course on Codecademy.
+* Learned about overflow: scroll element.
 
 **Language(s):** Bootstrap, HTML5, CSS
 
