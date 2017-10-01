@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 22: 10/1/2017
+
+**Today's Progress**
+* Trying to figure out Javascript for "quote rotation" script provided by a Twitter follower.
+
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+* Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [The A11y Project](http://a11yproject.com/)
+* [Dash @ General Assembly](https://dash.generalassemb.ly/)
+
+
 ### Day 21: 9/30/2017
 
 **Today's Progress**
