@@ -5,15 +5,17 @@
 **Today's Progress**
 * "Fixed" the issue of "Technical Experiences" text boxes collapsing too much by setting minimum width to the #Tech element.
 * Add in more content to the "Technical Experiences" boxes.
-* CSS course on Codecademy.
+* Finished CSS course on Codecademy for The Box Model section.
 * Learned about overflow: scroll element.
+* Learned about resetting browser default settings: * { margin: 0; padding: 0; }
+* visibility: hidden;
 
 **Language(s):** Bootstrap, HTML5, CSS
 
 **Course(s):**
 * Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
 
-**Thoughts:**  
+**Thoughts:**  Was out most of the day, so squeezed in the hour of code right before midnight.  Learned a lot of new features in CSS like the "visibility:hidden," resetting the browser stylesheet to 0, and the minimum/maximum width/height of an element.  
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
