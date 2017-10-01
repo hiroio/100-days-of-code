@@ -5,10 +5,11 @@
 **Today's Progress**
 * "Fixed" the issue of "Technical Experiences" text boxes collapsing too much by setting minimum width to the #Tech element.
 * Add in more content to the "Technical Experiences" boxes.
-* Finished CSS course on Codecademy for The Box Model section.
+* Finished CSS course on Codecademy for The Box Model section (42% of CSS course done).
 * Learned about overflow: scroll element.
 * Learned about resetting browser default settings: * { margin: 0; padding: 0; }
 * visibility: hidden;
+* Further reading on the A11y Project.
 
 **Language(s):** Bootstrap, HTML5, CSS
 
@@ -19,7 +20,6 @@
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
-* [hiroko.github.io](http://hiroko.github.io)
 
 **Links to Resources:**
 * [The A11y Project](http://a11yproject.com/)
@@ -39,7 +39,7 @@
 * Front End Web Development Certification on [freeCodeCamp](https://www.freecodecamp.org)
 * Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
 
-**Thoughts:**  
+**Thoughts:**  Signed up for the Dash at General Assembly to look into later.  Found the A11y Project to promote accessibility of the web for people with disabilities.  Would definitely like to look into it, implement it, and promote it. Accessibility in tech starts from my own projects!
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
