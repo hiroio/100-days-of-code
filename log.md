@@ -4,23 +4,23 @@
 
 **Today's Progress**
 * Trying to figure out Javascript for "quote rotation" script provided by a Twitter follower.
-* Starting the clean-up process of [Burgundy for Life](http://burgundyforlife.org) for AVM Awareness Month.
+* Created new website from scratch for [Burgundy for Life](http://burgundyforlife.org).
 * Created new Github repo: [burgundyforlife](https://github.com/hiroko/burgundyforlife).
+* Set "opacity" for background images: [StackOverflow](https://stackoverflow.com/questions/4183948/css-set-background-image-with-opacity)
 
 **Language(s):** Bootstrap, HTML5, CSS
 
 **Course(s):**
-* Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
 
-**Thoughts:**  
+**Thoughts:**  Had the idea and then knocked it out: made a new website for [burgundy for life](http://burgundyforlife.org) just in time for AVM awareness month that started today.  Learned a lot of new things as always, and was able to put a background image into a DIV and make it have a different opacity.
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
-* [burgundyforlife](https://github.com/hiroko/burgundyforlife)
+* [burgundyforlife.org](http://burgundyforlife.org)
+* Repo: [burgundyforlife](https://github.com/hiroko/burgundyforlife)
 
 **Links to Resources:**
 * [The A11y Project](http://a11yproject.com/)
-* [Dash @ General Assembly](https://dash.generalassemb.ly/)
 
 
 ### Day 21: 9/30/2017
