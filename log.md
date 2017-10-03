@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 23: 10/2/2017
+
+**Today's Progress**
+* Small edits on sections/code.  
+* Going to work on making code for both websites accessible, maybe starting with Burgundy for Life, since the website is smaller.
+* Need to think about how to do the quote rotation website.  (Project Love?)
+
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+
+**Thoughts:**  Kind of wiped out from yesterday's push of creating a whole website in one setting.  Took a break today for the most part.  Looking to "clean up" code I've been writing and removing things that don't need to be there/clutter the code, since they make code do unexpected things.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [The A11y Project](http://a11yproject.com/)
+
+
 ### Day 22: 10/1/2017
 
 **Today's Progress**
