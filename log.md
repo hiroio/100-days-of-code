@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 24: 10/4/2017
+
+**Today's Progress**
+* Made [burgundyforlife.org](http://burgundyforlife.org) accessible using [A11y Project](http://a11yproject.com) checklist.
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [The A11y Project](http://a11yproject.com/)
+
+
 ### Day 23: 10/2/2017
 
 **Today's Progress**
