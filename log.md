@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 25: 10/5/2017
+
+**Today's Progress**
+* Cleaning up code and A11y-ifying [hiroko.io](http://github.com/hiroko/hiroko.io)
+* Update resume on portfolio
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [The A11y Project](http://a11yproject.com/)
+
+
 ### Day 24: 10/4/2017
 
 **Today's Progress**
