@@ -19,6 +19,7 @@
 
 **Links to Resources:**
 * [Default CSS settings for <code>](https://www.w3schools.com/TAGs/tag_code.asp)
+* [Color-Hex](http://www.color-hex.com/member/hirok)
 
 
 ### Day 26: 10/6/2017
