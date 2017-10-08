@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log
 
+### Day 26: 10/6/2017
+
+**Today's Progress**
+* Editing resume on portfolio
+* Cleaning up CSS and HTML code on portfolio
+* Changed color for <code> attribute text-rendering
+* Changed link colors
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+
+**Thoughts:**  Portfolio is starting to get content with the resume.  The main page is about 80% finished.  Adding stylistic changes that I've been leaving off, like link colors.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Default CSS settings for <code>](https://www.w3schools.com/TAGs/tag_code.asp)
+
+
+### Day 26: 10/6/2017
+
+**Today's Progress**
+* Cleaning up resume on portfolio
+* Cleaning up code organization
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [The A11y Project](http://a11yproject.com/)
+
+
 ### Day 25: 10/5/2017
 
 **Today's Progress**
