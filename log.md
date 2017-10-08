@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 27: 10/7/2017
+
+**Today's Progress**
+* box-sizing: border-box; (border thickness and padding are included in the box, so width/height are not changed)
+
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+
+**Thoughts:**  Portfolio is starting to get content with the resume.  The main page is about 80% finished.  Adding stylistic changes that I've been leaving off, like link colors.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Default CSS settings for <code>](https://www.w3schools.com/TAGs/tag_code.asp)
+* [Color-Hex](http://www.color-hex.com/member/hirok)
+
 ### Day 26: 10/6/2017
 
 **Today's Progress**
