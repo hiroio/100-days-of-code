@@ -4,20 +4,21 @@
 
 **Today's Progress**
 * box-sizing: border-box; (border thickness and padding are included in the box, so width/height are not changed)
-
+* Still cleaning up messy code
+* Box Model on [Codecademy](https://www.codecademy.com/learn/learn-html)
 
 **Language(s):** Bootstrap, HTML5, CSS
 
 **Course(s):**
+* Learn CSS on [Codecademy](https://www.codecademy.com/learn/learn-html)
 
-**Thoughts:**  Portfolio is starting to get content with the resume.  The main page is about 80% finished.  Adding stylistic changes that I've been leaving off, like link colors.
+**Thoughts:**  
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
-* [Default CSS settings for <code>](https://www.w3schools.com/TAGs/tag_code.asp)
-* [Color-Hex](http://www.color-hex.com/member/hirok)
+
 
 ### Day 26: 10/6/2017
 
