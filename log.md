@@ -3,10 +3,12 @@
 ### Day 28: 10/8/2017
 
 **Today's Progress**
+* Poking around jQuery
 * Looking into jQuery library to find a way to make the "click to expand/collapse" effect
 * Updating resume
+* Bootstrap Collapse plug-in! [Collapse @ Bootstrap](https://getbootstrap.com/docs/4.0/components/collapse/)
 
-**Language(s):** Bootstrap, HTML5, CSS
+**Language(s):** Bootstrap, HTML5, CSS, jQuery
 
 **Course(s):**
 
