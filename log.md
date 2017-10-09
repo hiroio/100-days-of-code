@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 28: 10/8/2017
+
+**Today's Progress**
+* Looking into jQuery library to find a way to make the "click to expand/collapse" effect
+* Updating resume
+
+**Language(s):** Bootstrap, HTML5, CSS
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [jQuery](http://jquery.com/)
+
+
 ### Day 27: 10/7/2017
 
 **Today's Progress**
