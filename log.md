@@ -12,13 +12,14 @@
 
 **Course(s):**
 
-**Thoughts:**  
+**Thoughts:**  Played around with a lot of CSS, focusing mostly on the top section of the portfolio website.  Need to look into the Bootstrap plug-in for the resume content collapse.  (Will probably test it on github.io repo first.)  Not sure what I want to do with the heading.  I feel like what I have right now isn't what I want in the long run.
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
 * [jQuery](http://jquery.com/)
+* [Collapse @ Bootstrap](https://getbootstrap.com/docs/4.0/components/collapse/)
 
 
 ### Day 27: 10/7/2017
