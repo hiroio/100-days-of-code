@@ -12,23 +12,28 @@
 * [Google Fonts](https://fonts.google.com/)
 * [TypeKit](http://typekit.com)
 
-### HTML/CSS/Bootstrap
+### HTML/CSS/Bootstrap/Javascript
 * [w3schools](https://www.w3schools.com/)
 * [Modernizr](https://modernizr.com/)
 * [Bootstrap](http://getbootstrap.com)
 * [DevFreeBooks](https://devfreebooks.github.io)
 * [Code Newbie: Resources](https://www.codenewbie.org/learn)
+* [jQuery](http://jquery.com/)
 
 ### Courses
 * [freeCodeCamp](https://www.freecodecamp.org)
 * [Javascript 30](https://javascript30.com/)
-* [Code Academy](https://www.codecademy.com/)
-
+* [Codecademy](https://www.codecademy.com/)
+* [Watch and Code (Javascript)](https://watchandcode.com/)
+* [Dash @ General Assembly](https://dash.generalassemb.ly/)
 
 ### Resources
 * [#100DaysOfCode](http://100daysofcode.org)
 * [PDFObject](https://pdfobject.com/)
 * [Color-Hex](http://www.color-hex.com/)
+
+### Accessibility
+* [The A11y Project](http://a11yproject.com/)
 
 ### Theme Inspirations
 * [3rd Wave Media](https://themes.3rdwavemedia.com/)

@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 29: 10/9/2017
+
+**Today's Progress**
+* Bootstrap Collapse plug-in! [Collapse @ Bootstrap](https://getbootstrap.com/docs/4.0/components/collapse/)
+
+**Language(s):** Bootstrap, HTML5, CSS, jQuery
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Watch and Code (Javascript)](https://watchandcode.com/)
+
+
 ### Day 28: 10/8/2017
 
 **Today's Progress**
@@ -320,7 +338,7 @@ Not sure if individual .html pages is the best way to go (especially because I c
 **Links to Resources:**
 * [#Javascript30](http://javascript30.com)
 * [freeCodeCamp](https://www.freecodecamp.org)
-* [Code Academy](http://codeacademy.com)
+* [Codecademy](http://codeacademy.com)
 
 
 ### Day 14: 9/23/2017
