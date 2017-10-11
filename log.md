@@ -4,18 +4,20 @@
 
 **Today's Progress**
 * Bootstrap Collapse plug-in! [Collapse @ Bootstrap](https://getbootstrap.com/docs/4.0/components/collapse/)
+* Implemented the collapse to the resume
+* [a styles](https://www.w3schools.com/cssref/sel_hover.asp)
 
-**Language(s):** Bootstrap, HTML5, CSS, jQuery
+**Language(s):** Bootstrap, HTML5, CSS, jQuery, Javascript
 
 **Course(s):**
 
-**Thoughts:**  
+**Thoughts:**  Got the accordion effect working for the resume, which means the page can by-loading-default be much shorter than what it was before, which allows people to focus on the whole page instead of getting burnt out on the resume.  Will see if I can make it look prettier later.  (Couldn't get the a styles for the class to work properly and gave up.)
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
-* [Watch and Code (Javascript)](https://watchandcode.com/)
+* [Logopony](https://www.logopony.com/)
 
 
 ### Day 28: 10/8/2017
