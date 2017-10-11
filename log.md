@@ -1,6 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 29: 10/9/2017
+### Day 30: 10/11/2017
+
+**Today's Progress**
+* Custom Contact form - gave up
+* Clean up code and edit resume/formatting
+* To Do: Implement [Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/) for navigation
+* Removed: Contact section, Resources section
+
+**Language(s):** Bootstrap, HTML5, CSS, jQuery, Javascript
+
+**Course(s):**
+
+**Thoughts:**  Was going to set up custom form, but realized I need PHP for that. And also that it just collects spam for all my other websites, so people can choose some other way of contacting me (there's plenty!). Did a lot of cleaning up and reformatting to make things fit nicer, removed resources and contact section for now.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Forms @ Bootstrap](https://getbootstrap.com/docs/4.0/components/forms/)
+* [Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/)
+
+
+### Day 29: 10/10/2017
 
 **Today's Progress**
 * Bootstrap Collapse plug-in! [Collapse @ Bootstrap](https://getbootstrap.com/docs/4.0/components/collapse/)
@@ -20,7 +42,7 @@
 * [Logopony](https://www.logopony.com/)
 
 
-### Day 28: 10/8/2017
+### Day 28: 10/9/2017
 
 **Today's Progress**
 * Poking around jQuery
@@ -42,7 +64,7 @@
 * [Collapse @ Bootstrap](https://getbootstrap.com/docs/4.0/components/collapse/)
 
 
-### Day 27: 10/7/2017
+### Day 27: 10/8/2017
 
 **Today's Progress**
 * box-sizing: border-box; (border thickness and padding are included in the box, so width/height are not changed)
@@ -62,7 +84,7 @@
 **Links to Resources:**
 
 
-### Day 26: 10/6/2017
+### Day 26: 10/7/2017
 
 **Today's Progress**
 * Editing resume on portfolio
