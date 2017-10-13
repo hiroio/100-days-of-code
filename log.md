@@ -1,11 +1,34 @@
 # 100 Days Of Code - Log
 
+### Day 32: 10/13/2017
+
+**Today's Progress**
+* Implementing On-Click Javascript
+* To Do: Implement [Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/) for navigation
+
+
+**Language(s):** Bootstrap, HTML5, CSS, jQuery, Javascript
+
+**Course(s):**
+
+**Thoughts:**  Fixed up the OnClick Javascript's hopping/not reacting issue by removing resizing/stylistic code from the resume points.  Means they still can't click on the arrow icons themselves or it won't work.  Having issues with profile image not being a circle despite the border-radius: 100%.  Not sure why.  Seems related to size of the image.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Forms @ Bootstrap](https://getbootstrap.com/docs/4.0/components/forms/)
+* [Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/)
+
+
 ### Day 31: 10/12/2017
 
 **Today's Progress**
 * Implementing On-Click Javascript
+* [Passing Parameters in Javascript onClick Event](https://codeplanet.io/passing-parameters-in-javascript-onclick-event/)
 * Hooked up Hiroko.Io to hosting
 * To Do: Implement [Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/) for navigation
+* Ways of [Swapping Out Text](https://css-tricks.com/swapping-out-text-five-different-ways/)
 
 **Language(s):** Bootstrap, HTML5, CSS, jQuery, Javascript
 
@@ -17,8 +40,8 @@
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
 
 **Links to Resources:**
-* [Forms @ Bootstrap](https://getbootstrap.com/docs/4.0/components/forms/)
 * [Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/)
+* [OnClick Event](https://www.w3schools.com/jsref/event_onclick.asp)
 
 
 ### Day 30: 10/11/2017
