@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 31: 10/12/2017
+
+**Today's Progress**
+* Implementing On-Click Javascript
+* Hooked up Hiroko.Io to hosting
+* To Do: Implement [Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/) for navigation
+
+**Language(s):** Bootstrap, HTML5, CSS, jQuery, Javascript
+
+**Course(s):**
+
+**Thoughts:**  Put in the OnClick Javascript with help of roommate into the code, but it reacts randomly when clicking on the link (sometimes hops to the middle of the section, or just doesn't collapse/expand).  Also the collapse effect doesn't work when just clicking on the arrow icon (has to be clicking on the URL).
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Forms @ Bootstrap](https://getbootstrap.com/docs/4.0/components/forms/)
+* [Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/)
+
+
 ### Day 30: 10/11/2017
 
 **Today's Progress**
