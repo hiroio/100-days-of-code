@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 33: 10/14/2017
+
+**Today's Progress**
+* Tried to implement [Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/) for navigation; didn't work!
+
+
+**Language(s):** Bootstrap, HTML5, CSS, jQuery, Javascript
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Forms @ Bootstrap](https://getbootstrap.com/docs/4.0/components/forms/)
+* [Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/)
+
+
 ### Day 32: 10/13/2017
 
 **Today's Progress**
