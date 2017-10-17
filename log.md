@@ -4,6 +4,7 @@
 
 **Today's Progress**
 * #Hackathon Day 1: created UI/UX framework for conference room listing webpage for group using Bootstrap
+* Cleaning up portfolio index page
 
 **Language(s):** Bootstrap, HTML, CSS
 
