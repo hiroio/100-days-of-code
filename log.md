@@ -1,10 +1,45 @@
 # 100 Days Of Code - Log
 
+### Day 34: 10/15/2017
+
+**Today's Progress**
+* #Hackathon Day 1: created UI/UX framework for conference room listing webpage for group using Bootstrap
+
+**Language(s):** Bootstrap, HTML, CSS
+
+**Course(s):**
+
+**Thoughts:**  All-day hackathon (with a dose of tickets sprinkled in). Used Bootstrap to create frameworks.  Already at Day 35!
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+
+
+### Day 34: 10/15/2017
+
+**Today's Progress**
+* Added "Active" class to link
+* Created hi@hiroko.io e-mail address
+* Joined #100DaysOfCode Slack
+
+**Language(s):** Bootstrap, HTML5, CSS, jQuery, Javascript
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+
+
 ### Day 33: 10/14/2017
 
 **Today's Progress**
 * Tried to implement [Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/) for navigation; didn't work!
-
 
 **Language(s):** Bootstrap, HTML5, CSS, jQuery, Javascript
 
