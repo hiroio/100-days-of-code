@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 34: 10/15/2017
+### Day 36: 10/17/2017
+
+**Today's Progress**
+* #Hackathon Day 2! Presented the product and won the People's Choice Award!
+* [Room Me](https://github.com/hiroko/room-me)
+
+**Language(s):** Bootstrap, HTML, CSS
+
+**Course(s):**
+
+**Thoughts:**  Morning hacking, and then presentation/awards ceremony while working.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [Room Me](https://github.com/hiroko/room-me)
+
+**Links to Resources:**
+
+
+### Day 35: 10/16/2017
 
 **Today's Progress**
 * #Hackathon Day 1: created UI/UX framework for conference room listing webpage for group using Bootstrap
@@ -14,6 +33,7 @@
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [Room Me](https://github.com/hiroko/room-me)
 
 **Links to Resources:**
 
