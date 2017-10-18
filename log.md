@@ -3,6 +3,25 @@
 ### Day 36: 10/17/2017
 
 **Today's Progress**
+* Watching [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+* Updating portfolio with circle backgrounds for the font awesome icons
+
+**Language(s):** Bootstrap, HTML, CSS
+
+**Course(s):**
+
+**Thoughts:**  Finally figured out and implemented the "circle backgrounds" on the font awesome icons to make them stand out against the gray backgrounds for the portfolio main pages.  Still need to think about what I want to do with survey answers. Hopefully I can figure out a way to create a "random quote generator" this week.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+
+
+### Day 36: 10/17/2017
+
+**Today's Progress**
 * #Hackathon Day 2! Presented the product and won the People's Choice Award!
 * [Room Me](https://github.com/hiroko/room-me)
 
