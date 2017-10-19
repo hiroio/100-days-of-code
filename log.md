@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 36: 10/17/2017
+### Day 38: 10/19/2017
+
+**Today's Progress**
+* [Complete Guide to FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* Implemented [.htaccess](https://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/)
+* To Do: Use sub navigation for main portfolio navigation then convert files to php?
+
+**Language(s):** Bootstrap, HTML, CSS
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Complete Guide to FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [.htaccess](https://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/)
+
+
+### Day 37: 10/18/2017
 
 **Today's Progress**
 * Watching [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
