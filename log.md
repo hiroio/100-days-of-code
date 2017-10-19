@@ -5,7 +5,7 @@
 **Today's Progress**
 * [Complete Guide to FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * Implemented [.htaccess](https://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/)
-* To Do: Use sub navigation for main portfolio navigation then convert files to php?
+* To Do: Use sub navigation for main portfolio navigation then convert files to php? [NavBar](https://getbootstrap.com/docs/4.0/components/navbar/)
 
 **Language(s):** Bootstrap, HTML, CSS
 
