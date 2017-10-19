@@ -27,6 +27,9 @@
 * [Watch and Code (Javascript)](https://watchandcode.com/)
 * [Dash @ General Assembly](https://dash.generalassemb.ly/)
 
+### Videos
+* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+
 ### Resources
 * [#100DaysOfCode](http://100daysofcode.org)
 * [PDFObject](https://pdfobject.com/)
