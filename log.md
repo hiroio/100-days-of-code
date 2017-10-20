@@ -6,12 +6,13 @@
 * [Complete Guide to FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * Implemented [.htaccess](https://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/)
 * To Do: Use sub navigation for main portfolio navigation then convert files to php? [NavBar](https://getbootstrap.com/docs/4.0/components/navbar/)
+* Joined #Hacktober
 
 **Language(s):** Bootstrap, HTML, CSS
 
 **Course(s):**
 
-**Thoughts:**  
+**Thoughts:**  Edited the portfolio, implemented a drop-down navigation (that kind of works), asked for help on #100DaysOfCode slack about why there are certain bugs.  Joined #Hacktober but have no idea what I'm doing. Yay!
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
