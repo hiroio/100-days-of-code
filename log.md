@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 39: 10/20/2017
+
+**Today's Progress**
+* Contributed to #Hacktober
+* Trying to troubleshoot the navigation link drop down issue (doesn't open up the dropdown navigation on first click)
+* Trying to troubleshoot the hops to #IxN and arrow doesn't react the same way as rest of the "collapse" bootstrap feature; the hopping was rectified by changing to div instead of a link, but the arrow still reacts without toggling the collapse when opened
+
+**Language(s):** Bootstrap, HTML, CSS
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [Complete Guide to FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [.htaccess](https://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/)
+
+
 ### Day 38: 10/19/2017
 
 **Today's Progress**
