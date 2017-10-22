@@ -6,8 +6,9 @@
 * Contributed to #Hacktober
 * Might have found what I need to create the random-quote-generator website for AVM Awareness Month? [Text Randomizer](https://affeli.us/tools/scripts/text-randomizer)
 * Bug finally fixed for the arrows on resume with JS thanks to help from #100DaysOfCode Slack
+* Navbar glitch fixed by removing   <script src="js/bootstrap.min.js"></script> from bottom of page
 
-**Language(s):** Bootstrap, HTML, CSS
+**Language(s):** Bootstrap, HTML, CSS, Javascript
 
 **Course(s):**
 
