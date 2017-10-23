@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 34: 10/21/2017
+### Day 41: 10/22/2017
+
+**Today's Progress**
+* Added Google Analytics to [Burgundy for Life](http://burgundyforlife.org); cleaned up styling
+* Created [Project Hope](https://github.com/hiroko/project-hope) with Text-Randomizer script
+* Updated [Burgundy for Life](https://github.com/hiroko/burgundyforlife) with new project
+* To Do: Create projects on portfolio with the new websites
+
+**Language(s):** Bootstrap, HTML, CSS, Javascript, PHP
+
+**Course(s):**
+
+**Thoughts:**  Got the project I was hoping to knock out in October done. The data is not all there (slowly adding them in), but there's enough content for it to function at its capacity.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [Burgundy for Life](https://github.com/hiroko/burgundyforlife)
+
+**Links to Resources:**
+* [Text Randomizer](https://affeli.us/tools/scripts/text-randomizer)
+
+### Day 40: 10/21/2017
 
 **Today's Progress**
 * Contributed to #Hacktober
