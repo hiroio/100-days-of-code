@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 42: 10/23/2017
+
+**Today's Progress**
+* To Do: Create projects on portfolio with the new websites
+* To Do: Convert portfolio to PHP
+
+**Language(s):** Bootstrap, HTML, CSS, Javascript, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [Burgundy for Life](https://github.com/hiroko/burgundyforlife)
+
+**Links to Resources:**
+* [Text Randomizer](https://affeli.us/tools/scripts/text-randomizer)
+
+
 ### Day 41: 10/22/2017
 
 **Today's Progress**
@@ -20,6 +40,7 @@
 
 **Links to Resources:**
 * [Text Randomizer](https://affeli.us/tools/scripts/text-randomizer)
+
 
 ### Day 40: 10/21/2017
 
