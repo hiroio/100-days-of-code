@@ -1,5 +1,49 @@
 # 100 Days Of Code - Log
 
+### Day 44: 10/26/2017
+
+**Today's Progress**
+* To Do: Create projects on portfolio with the new websites
+* To Do: Convert portfolio to PHP
+* Implemented [Fancybox](http://fancyapps.com/fancybox/) for certifications
+
+**Language(s):** Bootstrap, HTML, CSS, Javascript, PHP, jQuery
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [Burgundy for Life](https://github.com/hiroko/burgundyforlife)
+
+**Links to Resources:**
+* [jQuery Hover Effect](https://www.wpfreeware.com/tutorial/jquery-image-hover-effect-plugins-with-examples/)
+* [Fancybox](http://fancyapps.com/fancybox/)
+
+
+### Day 43: 10/25/2017
+
+**Today's Progress**
+* To Do: Create projects on portfolio with the new websites
+* To Do: Convert portfolio to PHP
+* Implement [Fancybox](http://fancyapps.com/fancybox/) for certifications
+
+**Language(s):** Bootstrap, HTML, CSS, Javascript, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [Burgundy for Life](https://github.com/hiroko/burgundyforlife)
+
+**Links to Resources:**
+* [jQuery Hover Effect](https://www.wpfreeware.com/tutorial/jquery-image-hover-effect-plugins-with-examples/)
+* [Fancybox](http://fancyapps.com/fancybox/)
+
+
 ### Day 42: 10/23/2017
 
 **Today's Progress**

@@ -19,6 +19,7 @@
 * [DevFreeBooks](https://devfreebooks.github.io)
 * [Code Newbie: Resources](https://www.codenewbie.org/learn)
 * [jQuery](http://jquery.com/)
+* [i18 Next](https://www.i18next.com/)
 
 ### Courses
 * [freeCodeCamp](https://www.freecodecamp.org)
@@ -35,6 +36,7 @@
 * [#100DaysOfCode](http://100daysofcode.org)
 * [PDFObject](https://pdfobject.com/)
 * [Color-Hex](http://www.color-hex.com/)
+* [She Can Code](https://shecancode.io/resources/)
 
 ### Accessibility
 * [The A11y Project](http://a11yproject.com/)
