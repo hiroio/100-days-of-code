@@ -11,7 +11,7 @@
 
 **Course(s):**
 
-**Thoughts:**  
+**Thoughts:**  Thinking about #EmpaTech.
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
