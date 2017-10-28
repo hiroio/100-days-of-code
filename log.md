@@ -5,7 +5,8 @@
 **Today's Progress**
 * To Do: Create projects on portfolio with the new websites
 * To Do: Convert portfolio to PHP
-* Uploaded "prototype" to hiroko.io
+* Uploaded temporary page to [hiroko.io](https://github.com/hiroko/hiroko.io)
+* Created and uploaded temporary page for [hirokonishimura.com](https://github.com/hiroko/hirokonishimura)
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
 
@@ -15,6 +16,7 @@
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hirokonishimura.com](https://github.com/hiroko/hirokonishimura)
 
 **Links to Resources:**
 * [jQuery Hover Effect](https://www.wpfreeware.com/tutorial/jquery-image-hover-effect-plugins-with-examples/)
