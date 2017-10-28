@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 45: 10/27/2017
+
+**Today's Progress**
+* To Do: Create projects on portfolio with the new websites
+* To Do: Convert portfolio to PHP
+* Uploaded "prototype" to hiroko.io
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  Thinking about #EmpaTech.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+**Links to Resources:**
+* [jQuery Hover Effect](https://www.wpfreeware.com/tutorial/jquery-image-hover-effect-plugins-with-examples/)
+
+
 ### Day 44: 10/26/2017
 
 **Today's Progress**
@@ -15,7 +35,6 @@
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
-* [Burgundy for Life](https://github.com/hiroko/burgundyforlife)
 
 **Links to Resources:**
 * [jQuery Hover Effect](https://www.wpfreeware.com/tutorial/jquery-image-hover-effect-plugins-with-examples/)
