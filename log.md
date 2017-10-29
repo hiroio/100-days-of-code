@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 46: 10/28/2017
+
+**Today's Progress**
+* To Do: Create projects on portfolio with the new websites
+* To Do: Convert portfolio to PHP
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  EmpathyJam all day!
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hirokonishimura.com](https://github.com/hiroko/hirokonishimura)
+
+
 ### Day 45: 10/27/2017
 
 **Today's Progress**
