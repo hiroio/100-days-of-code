@@ -4,6 +4,24 @@
 
 **Today's Progress**
 * To Do: Create projects on portfolio with the new websites
+* Converted the "writing" section of portfolio into PHP
+* Converted the writing sample list from list to accordion with Bootstrap
+* To Do: "Offline" as one of the features in portfolio, for my offline activities?
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  Made the .htaccess work for PHP, and converted all the writing related pages into PHP.  Embedded the accordion feature for the writing page as well so the content look matches the front page.  Now the navigation is synced up.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
+### Day 46: 10/28/2017
+
+**Today's Progress**
+* To Do: Create projects on portfolio with the new websites
 * To Do: Convert portfolio to PHP
 
 **Language(s):** Bootstrap, HTML, CSS, PHP

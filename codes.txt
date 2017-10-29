@@ -1,0 +1,15 @@
+
+Remove .html from URLs with .htaccess:
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+
+Remove .php from URLs with .htaccess:
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
+
+(Php mustcome before html)
