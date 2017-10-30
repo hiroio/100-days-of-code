@@ -40,6 +40,7 @@
 
 ### Accessibility
 * [The A11y Project](http://a11yproject.com/)
+* [W3C Accessibility](https://www.w3.org/WAI/)
 
 ### Theme Inspirations
 * [3rd Wave Media](https://themes.3rdwavemedia.com/)
