@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 46: 10/28/2017
+### Day 48: 10/29/2017
+
+**Today's Progress**
+* Added "Services" page to slowly fill out
+* To Do: Create projects on portfolio with the new websites
+* Added "Offline" as a portfolio section
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  Starting to feel really burnt out and tired.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
+### Day 47: 10/29/2017
 
 **Today's Progress**
 * To Do: Create projects on portfolio with the new websites
