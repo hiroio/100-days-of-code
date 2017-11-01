@@ -3,7 +3,6 @@
 ### Day 50: 11/01/2017
 
 **Today's Progress**
-* Created
 * To Do: Create projects on portfolio with the new websites
 * Put back the original "about section" to fool around with the media class in a test page
 
