@@ -1,6 +1,40 @@
 # 100 Days Of Code - Log
 
-### Day 48: 10/29/2017
+### Day 50: 11/01/2017
+
+**Today's Progress**
+* Created
+* To Do: Create projects on portfolio with the new websites
+* Put back the original "about section" to fool around with the media class in a test page
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
+### Day 49: 10/31/2017
+
+**Today's Progress**
+* Created "activities" instead of "offline"
+* To Do: Create projects on portfolio with the new websites
+* Broke the about me section with the "media" class; need to put it back
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
+### Day 48: 10/30/2017
 
 **Today's Progress**
 * Added "Services" page to slowly fill out
