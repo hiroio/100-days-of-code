@@ -1,10 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 53: 11/04/2017
+
+**Today's Progress**
+* To Do: Create projects on portfolio with the new websites
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
 ### Day 52: 11/03/2017
 
 **Today's Progress**
 * To Do: Create projects on portfolio with the new websites
-*
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
 
