@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 54: 11/05/2017
+
+**Today's Progress**
+* Created Projects page utilizing jQuery
+* Fixed the footer-overlapping-text issue by [adding bottom margin to body](https://stackoverflow.com/questions/26336190/bootstrap-sticky-footer-overlapping-content)
+* Considering using [buttons](https://v4-alpha.getbootstrap.com/components/buttons/) for navigating the portfolio content
+* Fixed issue with width being more than the display by changing the ID from DIV to SECTION
+* Debugged and uploaded to production
+
+**Language(s):** Bootstrap, HTML, CSS, PHP, jQuery
+
+**Course(s):**
+
+**Thoughts:**  Feeling a little better now than last week, and finally knocked out one of the biggist To-Do's.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
 ### Day 53: 11/04/2017
 
 **Today's Progress**
