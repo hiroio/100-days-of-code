@@ -1,5 +1,50 @@
 # 100 Days Of Code - Log
 
+### Day 58: 11/08/2017
+
+**Today's Progress**
+* Cleaned up portfolio
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
+### Day 57: 11/08/2017
+
+**Today's Progress**
+* Cleaned up [hirokonishimura.com](http://hirokonishimura.com) page
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
+### Day 56: 11/07/2017
+
+**Today's Progress**
+* Cleaned up portfolio
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
 ### Day 55: 11/06/2017
 
 **Today's Progress**

@@ -38,6 +38,9 @@
 * [Color-Hex](http://www.color-hex.com/)
 * [She Can Code](https://shecancode.io/resources/)
 
+### Languages
+* [Android Studio](https://developer.android.com/studio/index.html)
+
 ### Accessibility
 * [The A11y Project](http://a11yproject.com/)
 * [W3C Accessibility](https://www.w3.org/WAI/)
