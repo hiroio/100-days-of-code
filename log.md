@@ -1,6 +1,38 @@
 # 100 Days Of Code - Log
 
-### Day 58: 11/08/2017
+### Day 60: 11/11/2017
+
+**Today's Progress**
+* Cleaning up and adjusting CSS elements in portfolio
+* Reformatted the Resume section for Education and Certifications to save space on page
+* Fixed footer in index page
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
+### Day 59: 11/10/2017
+
+**Today's Progress**
+* Cleaned up portfolio formatting
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
+### Day 58: 11/09/2017
 
 **Today's Progress**
 * Cleaned up portfolio
