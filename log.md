@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 61: 11/12/2017
+
+**Today's Progress**
+* Cleaned up CSS for [Burgundy for Life](https://gibhub.com/hiroko/burgundyforlife) and changed text
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [Burgundy for Life](https://gibhub.com/hiroko/burgundyforlife)
+
 ### Day 60: 11/11/2017
 
 **Today's Progress**
