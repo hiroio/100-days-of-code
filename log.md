@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 62: 11/13/2017
+
+**Today's Progress**
+* Adding content to portfolio index
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
 ### Day 61: 11/12/2017
 
 **Today's Progress**
