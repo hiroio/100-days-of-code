@@ -209,6 +209,8 @@
 * Created "activities" instead of "offline"
 * To Do: Create projects on portfolio with the new websites
 * Broke the about me section with the "media" class; need to put it back
+* Created [Sticky Footer](https://getbootstrap.com/docs/4.0/utilities/position/#sticky-top) effect, but now need to figure out way to put margin-top to <footer> so loads properly on mobile; @media?
+* Moved profile image to be centered on text but now it's not responsive [Media Object](https://getbootstrap.com/docs/4.0/layout/media-object/)
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
 
