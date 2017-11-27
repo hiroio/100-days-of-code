@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
 
+### Day 64: 11/27/2017
+
+**Today's Progress**
+* Adding content to portfolio index
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Udemy: [Learn to Create Responsive Webdesign in 30 Minutes](https://www.udemy.com/learn-to-create-responsive-layouts-in-30-minutes/learn/v4/overview)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+### Day 63: 11/15/2017
+
+**Today's Progress**
+* Adding content to portfolio
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
 ### Day 62: 11/13/2017
 
 **Today's Progress**
