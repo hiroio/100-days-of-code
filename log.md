@@ -4,11 +4,12 @@
 
 **Today's Progress**
 * Adding content to portfolio index
+* Brushing up on basic HTML/CSS with 30 minute lesson
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
 
 **Course(s):**
-* Udemy: [Learn to Create Responsive Webdesign in 30 Minutes](https://www.udemy.com/learn-to-create-responsive-layouts-in-30-minutes/learn/v4/overview)
+* Udemy: [Learn to Create Responsive Layouts in 30 Minutes](https://www.udemy.com/learn-to-create-responsive-layouts-in-30-minutes/learn/v4/overview)
 
 **Thoughts:**  
 
