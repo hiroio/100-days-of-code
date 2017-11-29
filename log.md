@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 66: 11/29/2017
+
+**Today's Progress**
+* Codecademy CSS course
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Coursecademy: CSS
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
 ### Day 65: 11/28/2017
 
 **Today's Progress**
