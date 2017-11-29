@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 65: 11/28/2017
+
+**Today's Progress**
+* Playing around with CSS to style areas on index page
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Udemy: [Learn to Create Responsive Layouts in 30 Minutes](https://www.udemy.com/learn-to-create-responsive-layouts-in-30-minutes/learn/v4/overview)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
 ### Day 64: 11/27/2017
 
 **Today's Progress**
