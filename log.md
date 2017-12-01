@@ -3,6 +3,24 @@
 ### Day 66: 11/29/2017
 
 **Today's Progress**
+* Finally "released" hiroko.io; going to take a break from working on it for now to work on hire.hiroko.io
+* Set up github for [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Coursecademy: CSS
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+
+### Day 66: 11/29/2017
+
+**Today's Progress**
 * Codecademy CSS course
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
