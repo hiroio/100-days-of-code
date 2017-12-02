@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 66: 11/29/2017
+### Day 68: 12/01/2017
+
+**Today's Progress**
+* Cleaned up code and replaced index.html with index.php
+* Framework for hire.hiroko.io
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Coursecademy: CSS
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+
+### Day 67: 11/30/2017
 
 **Today's Progress**
 * Finally "released" hiroko.io; going to take a break from working on it for now to work on hire.hiroko.io
