@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 69: 12/02/2017
+
+**Today’s Progress**
+* Maybe purchase [Blink Shell](https://itunes.apple.com/us/app/blink-shell-mosh-ssh/id1156707581?mt=8) after learning SSH? 
+* Installed Working Copy to clone Git with iPad
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Coursecademy: CSS
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+
 ### Day 68: 12/01/2017
 
 **Today's Progress**
