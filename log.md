@@ -5,18 +5,22 @@
 **Today’s Progress**
 * Maybe purchase [Blink Shell](https://itunes.apple.com/us/app/blink-shell-mosh-ssh/id1156707581?mt=8) after learning SSH? 
 * Installed Working Copy to clone Git with iPad
-* Testing ability to push/commit to Git
+* Tested ability to push/commit to Git with Working Copy
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
 
 **Course(s):**
-* Coursecademy: CSS
 
 **Thoughts:**  
 
 **Link(s) to Work:**
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
 * [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+** Link(s) to Resources:**
+* [Using CSS Flexboxes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Grid System (Bootstrap)](https://getbootstrap.com/docs/4.0/layout/grid/)
 
 
 ### Day 68: 12/01/2017
