@@ -5,6 +5,7 @@
 **Today’s Progress**
 * Maybe purchase [Blink Shell](https://itunes.apple.com/us/app/blink-shell-mosh-ssh/id1156707581?mt=8) after learning SSH? 
 * Installed Working Copy to clone Git with iPad
+* Testing ability to push/commit to Git
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
 
