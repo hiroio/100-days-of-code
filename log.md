@@ -5,6 +5,7 @@
 **Today’s Progress**
 * CSS
 * Playing around in test environment
+* Viewport: [w3schools](https://www.w3schools.com/css/css_rwd_viewport.asp)
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
 
