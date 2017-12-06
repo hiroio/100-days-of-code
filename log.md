@@ -6,6 +6,7 @@
 * CSS
 * Playing around in test environment
 * Viewport: [w3schools](https://www.w3schools.com/css/css_rwd_viewport.asp)
+* @media
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
 
@@ -19,7 +20,6 @@
 * [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
 
 ** Link(s) to Resources:**
-
 
 
 ### Day 70: 12/03/2017
