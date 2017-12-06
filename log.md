@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 71: 12/05/2017
+
+**Today’s Progress**
+* CSS
+* Playing around in test environment
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Udemy: [Learn to Create Responsive Layouts in 30 Minutes](https://www.udemy.com/learn-to-create-responsive-layouts-in-30-minutes/learn/v4/overview)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+** Link(s) to Resources:**
+
+
+
 ### Day 70: 12/03/2017
 
 **Today’s Progress**
