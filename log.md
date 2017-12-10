@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 72: 12/10/2017
+
+**Today’s Progress**
+* Updated Wordpress business website for a client
+* <a href=“tel:.....”> for “link” to phone/calling application
+* Set up Yelp listing
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+** Link(s) to Resources:**
+
+
 ### Day 71: 12/05/2017
 
 **Today’s Progress**
