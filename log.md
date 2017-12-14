@@ -1,5 +1,190 @@
 # 100 Days Of Code - Log
 
+### Day 72: 12/10/2017
+
+**Today’s Progress**
+* Updated Wordpress business website for a client
+* <a href=“tel:.....”> for “link” to phone/calling application
+* Set up Yelp listing
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+** Link(s) to Resources:**
+
+
+### Day 71: 12/05/2017
+
+**Today’s Progress**
+* CSS
+* Playing around in test environment
+* Viewport: [w3schools](https://www.w3schools.com/css/css_rwd_viewport.asp)
+* @media
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Udemy: [Learn to Create Responsive Layouts in 30 Minutes](https://www.udemy.com/learn-to-create-responsive-layouts-in-30-minutes/learn/v4/overview)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+** Link(s) to Resources:**
+
+
+### Day 70: 12/03/2017
+
+**Today’s Progress**
+* Learning Flexbox
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+** Link(s) to Resources:**
+* [Using CSS Flexboxes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Grid System (Bootstrap)](https://getbootstrap.com/docs/4.0/layout/grid/)
+
+
+### Day 69: 12/02/2017
+
+**Today’s Progress**
+* Maybe purchase [Blink Shell](https://itunes.apple.com/us/app/blink-shell-mosh-ssh/id1156707581?mt=8) after learning SSH?
+* Installed Working Copy to clone Git with iPad
+* Tested ability to push/commit to Git with Working Copy
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+** Link(s) to Resources:**
+* [Using CSS Flexboxes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Grid System (Bootstrap)](https://getbootstrap.com/docs/4.0/layout/grid/)
+
+
+### Day 68: 12/01/2017
+
+**Today's Progress**
+* Cleaned up code and replaced index.html with index.php
+* Framework for hire.hiroko.io
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Coursecademy: CSS
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+
+### Day 67: 11/30/2017
+
+**Today's Progress**
+* Finally "released" hiroko.io; going to take a break from working on it for now to work on hire.hiroko.io
+* Set up github for [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Coursecademy: CSS
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+
+### Day 66: 11/29/2017
+
+**Today's Progress**
+* Codecademy CSS course
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Coursecademy: CSS
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
+### Day 65: 11/28/2017
+
+**Today's Progress**
+* Playing around with CSS to style areas on index page
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Udemy: [Learn to Create Responsive Layouts in 30 Minutes](https://www.udemy.com/learn-to-create-responsive-layouts-in-30-minutes/learn/v4/overview)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
+### Day 64: 11/27/2017
+
+**Today's Progress**
+* Adding content to portfolio index
+* Brushing up on basic HTML/CSS with 30 minute lesson
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* Udemy: [Learn to Create Responsive Layouts in 30 Minutes](https://www.udemy.com/learn-to-create-responsive-layouts-in-30-minutes/learn/v4/overview)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+### Day 63: 11/15/2017
+
+**Today's Progress**
+* Adding content to portfolio
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+
 ### Day 62: 11/13/2017
 
 **Today's Progress**

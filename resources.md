@@ -28,6 +28,7 @@
 * [Watch and Code (Javascript)](https://watchandcode.com/)
 * [Dash @ General Assembly](https://dash.generalassemb.ly/)
 * [Hack Design](https://hackdesign.org/)
+* [Flatiron School](https://flatironschool.com/online-campus/#all-courses__free-courses)
 
 ### Videos
 * [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
