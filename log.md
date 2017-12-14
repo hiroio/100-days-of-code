@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 73: 12/11/2017
+
+**Today’s Progress**
+* Playing around with CSS styles
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [hire.hiroko.io](https://github.com/hiroko/hire.hiroko.io)
+
+** Link(s) to Resources:**
+
+
 ### Day 72: 12/10/2017
 
 **Today’s Progress**
@@ -26,7 +44,7 @@
 * CSS
 * Playing around in test environment
 * Viewport: [w3schools](https://www.w3schools.com/css/css_rwd_viewport.asp)
-* @media
+* @ media
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
 
