@@ -1,5 +1,41 @@
 # 100 Days Of Code - Log
 
+### Day 75: 12/14/2017
+
+**Today’s Progress**
+* Created a "financial goal ticker" using CSS and HTML for 2018 goals
+* [Create a HTML/CSS Horizontal Bar Graph](https://www.otreva.com/blog/create-a-htmlcss-horizontal-bar-graph/)
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.github.io](https://github.com/hiroko/hiroko.github.io)
+
+** Link(s) to Resources:**
+* [Create a HTML/CSS Horizontal Bar Graph](https://www.otreva.com/blog/create-a-htmlcss-horizontal-bar-graph/)
+
+
+### Day 74: 12/13/2017
+
+**Today’s Progress**
+* Fixed up styling for [burgundyforlife](https://github.com/hiroko/burgundyforlife)
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [burgundyforlife](https://github.com/hiroko/burgundyforlife)
+
+** Link(s) to Resources:**
+
+
 ### Day 73: 12/11/2017
 
 **Today’s Progress**
