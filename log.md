@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 77: 12/18/2017
+
+**Today’s Progress**
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  I want to look into creating a [countdown timer in Javascript](https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/) for my personal finance project.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+** Link(s) to Resources:**
+* [Countdown Timer in Javascript](https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/)
+
+
 ### Day 76: 12/17/2017
 
 **Today’s Progress**
