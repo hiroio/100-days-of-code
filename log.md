@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 76: 12/17/2017
+
+**Today’s Progress**
+* Trying to learn the responsive columns
+* Cleaning up formatting/css
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+** Link(s) to Resources:**
+
+
 ### Day 75: 12/14/2017
 
 **Today’s Progress**
