@@ -3,6 +3,7 @@
 ### Day 77: 12/18/2017
 
 **Today’s Progress**
+* Cleaned up more code/formatting for hiroko.io
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
 
