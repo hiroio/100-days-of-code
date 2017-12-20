@@ -3,6 +3,23 @@
 ### Day 78: 12/18/2017
 
 **Today’s Progress**
+* Fixing up formatting for hirokonishimura.com
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+
+**Thoughts:**  I want to look into creating a [countdown timer in Javascript](https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/) for my personal finance project.
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+** Link(s) to Resources:**
+
+
+### Day 78: 12/18/2017
+
+**Today’s Progress**
 * Cleaning up formatting and code
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
