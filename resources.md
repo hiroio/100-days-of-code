@@ -21,6 +21,9 @@
 * [jQuery](http://jquery.com/)
 * [i18 Next](https://www.i18next.com/)
 
+### WordPress
+* [Divi](https://www.elegantthemes.com/gallery/divi/)
+
 ### Courses
 * [freeCodeCamp](https://www.freecodecamp.org)
 * [Javascript 30](https://javascript30.com/)
