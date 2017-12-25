@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 78: 12/18/2017
+### Day 80: 12/24/2017
+
+**Today’s Progress**
+* Going through documentations from [Study Web Development](https://studywebdevelopment.com/) bundle.
+* Signed up for Scrimba, and enrolled in [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
+
+**Language(s):** Bootstrap, HTML, CSS, PHP
+
+**Course(s):**
+* [Study Web Development](https://studywebdevelopment.com/)
+* [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+** Link(s) to Resources:**
+
+
+### Day 79: 12/19/2017
 
 **Today’s Progress**
 * Fixing up formatting for hirokonishimura.com
