@@ -4,7 +4,8 @@
 
 **Today’s Progress**
 * Going through documentations from [Study Web Development](https://studywebdevelopment.com/) bundle.
-* Signed up for Scrimba, and enrolled in [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
+* Signed up for Scrimba, and enrolled in [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE).
+* Starting to learn CSS Grid.
 
 **Language(s):** Bootstrap, HTML, CSS, PHP
 
