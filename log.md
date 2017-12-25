@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 81: 12/25/2017
+
+**Today’s Progress**
+* Going through documentations from [Study Web Development](https://studywebdevelopment.com/) bundle.
+* Working on [CSS Grid](https://scrimba.com/g/gR8PTE).
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Study Web Development](https://studywebdevelopment.com/)
+* [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+** Link(s) to Resources:**
+
+
 ### Day 80: 12/24/2017
 
 **Today’s Progress**
@@ -7,7 +27,7 @@
 * Signed up for Scrimba, and enrolled in [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE).
 * Starting to learn CSS Grid.
 
-**Language(s):** Bootstrap, HTML, CSS, PHP
+**Language(s):** HTML, CSS
 
 **Course(s):**
 * [Study Web Development](https://studywebdevelopment.com/)
