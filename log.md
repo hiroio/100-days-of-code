@@ -4,6 +4,7 @@
 
 **Today’s Progress**
 * Utilized CSS Grid to create a "saving challenge" system.
+* Fix up CSS, and create a new repo for the challenge itself.
 
 **Language(s):** HTML, CSS
 
