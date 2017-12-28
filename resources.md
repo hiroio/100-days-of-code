@@ -20,6 +20,7 @@
 * [Code Newbie: Resources](https://www.codenewbie.org/learn)
 * [jQuery](http://jquery.com/)
 * [i18 Next](https://www.i18next.com/)
+* [Underscore.js](http://underscorejs.org/)
 
 ### WordPress
 * [Divi](https://www.elegantthemes.com/gallery/divi/)
