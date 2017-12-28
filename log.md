@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 84: 12/28/2017
+
+**Today’s Progress**
+* Setting up DIVI on a test WordPress
+* Troubleshooting Allocated Memory Size issues
+* Continuing eBook from [Study Web Development](https://studywebdevelopment.com/)
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Study Web Development](https://studywebdevelopment.com/)
+* [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+** Link(s) to Resources:**
+* [Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+
 ### Day 83: 12/27/2017
 
 **Today’s Progress**
