@@ -8,7 +8,7 @@
 * Workaround:
 1. Grab sample of php.ini file [here](https://www.namecheap.com/support/knowledgebase/article.aspx/9314/2219/how-to-edit-phpini-on-shared-servers) Rec: v.5.6 ([different versions](https://www.namecheap.com/support/knowledgebase/article.aspx/9417/2219/how-to-change-php-version-on-shared-servers))
 2. Once the file is uploaded and edited accordingly, you will have to create a [SuPHP directive](https://www.namecheap.com/support/knowledgebase/article.aspx/9310/2219/suphp-directive-for-phpini-on-shared-servers) "memory_limit =" and add 256M after the "="
-
+* Sample wordpress site for [http://maryheinrichs.com](http://maryheinrichs.com)
 * Continuing eBook from [Study Web Development](https://studywebdevelopment.com/)
 
 **Language(s):** HTML, CSS
