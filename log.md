@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 86: 12/30/2017
+
+**Today’s Progress**
+* Working on personal freelance websites
+* Beginning discussions for [maryheinrichs.com](http://maryheinrichs.com) overhaul
+* Continuing eBook from [Study Web Development](https://studywebdevelopment.com/)
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Study Web Development](https://studywebdevelopment.com/)
+* [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+** Link(s) to Resources:**
+
+
 ### Day 85: 12/29/2017
 
 **Today’s Progress**
