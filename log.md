@@ -3,7 +3,7 @@
 ### Day 85: 12/29/2017
 
 **Today’s Progress**
-* Creating new wordpress theme for [burgundyforlife](http://github.com/hiroko/burgundyforlife)
+* Creating new wordpress theme for [burgundyforlife](http://github.com/hiroko/burgundyforlife) -> Released at [burgundyforlife.org](http://burgundyforlife.org)
 * Set up [First100Days](http://github.com/hiroko/first100days) repo
 * Continuing eBook from [Study Web Development](https://studywebdevelopment.com/)
 * Made the [#100DaysOfSaving](http://hiroko.github.io/004) table free for use
