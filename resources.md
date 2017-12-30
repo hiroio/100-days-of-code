@@ -5,6 +5,7 @@
 * [450 Free Online Programming & Computer Science Courses You Can Start in August](https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-august-dbf3cb657274)
 * [Code First Girls](http://www.codefirstgirls.org.uk/teach-yourself.html)
 * [Women Who Code](https://www.womenwhocode.com/resources)
+* [Coding Dojo: Best Free Web Development Courses for Beginners](http://www.codingdojo.com/blog/best-free-web-development-courses-beginners/)
 
 ### Fonts
 * [Font Awesome](http://fontawesome.io)
