@@ -58,3 +58,4 @@
 ### Other Stuff
 * [Gist](https://gist.github.com) - Save Code to send
 * [repl.it](http://repl.it) - Execute Code in browser
+* [Teachable Machine](https://teachablemachine.withgoogle.com/) - Machine Learning @ Google
