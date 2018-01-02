@@ -3,6 +3,26 @@
 ### Day 87: 12/31/2017
 
 **Today’s Progress**
+* Working on [maryheinrochs.com](http://maryheinrichs.com) revamp
+* Continuing eBook from [Study Web Development](https://studywebdevelopment.com/)
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Study Web Development](https://studywebdevelopment.com/)
+* [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+** Link(s) to Resources:**
+
+
+### Day 87: 12/31/2017
+
+**Today’s Progress**
 * Playing with Teachable Machine on Google
 * Continuing eBook from [Study Web Development](https://studywebdevelopment.com/)
 
@@ -18,7 +38,7 @@
 * [hiroko.io](https://github.com/hiroko/hiroko.io)
 
 ** Link(s) to Resources:**
-* [Teachable Machine](https://teachablemachine.withgoogle.com/) 
+* [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 ### Day 86: 12/30/2017
 
