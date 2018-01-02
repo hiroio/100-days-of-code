@@ -25,6 +25,7 @@
 
 ### WordPress
 * [Divi](https://www.elegantthemes.com/gallery/divi/)
+* [Divi Guide](http://divifonts.diviguide.com/)
 
 ### Courses
 * [freeCodeCamp](https://www.freecodecamp.org)
