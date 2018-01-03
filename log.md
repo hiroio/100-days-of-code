@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 87: 12/31/2017
+### Day 89: 1/3/2018
+
+**Today’s Progress**
+* Start brain storming revamp for [hiroko.io](http://hiroko.io)
+* Finished eBook from [Study Web Development](https://studywebdevelopment.com/)
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Study Web Development](https://studywebdevelopment.com/)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+** Link(s) to Resources:**
+
+
+### Day 88: 1/1/2018
 
 **Today’s Progress**
 * Working on [maryheinrochs.com](http://maryheinrichs.com) revamp
