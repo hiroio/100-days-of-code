@@ -1,10 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 89: 1/3/2018
+### Day 90: 1/5/2018
 
 **Today’s Progress**
 * Start brain storming revamp for [hiroko.io](http://hiroko.io)
 * Finished eBook from [Study Web Development](https://studywebdevelopment.com/)
+* Went through [Programming 101](https://www.udemy.com/programming-101)
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Study Web Development](https://studywebdevelopment.com/)
+* [Programming 101](https://www.udemy.com/programming-101)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+** Link(s) to Resources:**
+
+
+### Day 89: 1/3/2018
+
+**Today’s Progress**
+* Start brain storming revamp for [hiroko.io](http://hiroko.io)
 
 **Language(s):** HTML, CSS
 
