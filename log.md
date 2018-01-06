@@ -1,5 +1,44 @@
 # 100 Days Of Code - Log
 
+### Day 92: 1/6/2018
+
+**Today’s Progress**
+* Start up G Suite management business set up
+* [first100days](https://github.com/hiroko/first100days)
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Programming 101](https://www.udemy.com/programming-101)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [first100days](https://github.com/hiroko/first100days)
+
+** Link(s) to Resources:**
+
+
+### Day 91: 1/5/2018
+
+**Today’s Progress**
+* Start brain storming revamp for [hiroko.io](http://hiroko.io)
+* Went through [Programming 101](https://www.udemy.com/programming-101)
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Programming 101](https://www.udemy.com/programming-101)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+
+** Link(s) to Resources:**
+
+
 ### Day 91: 1/5/2018
 
 **Today’s Progress**
