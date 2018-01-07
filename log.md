@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 93: 1/7/2018
+
+**Today’s Progress**
+* Start up G Suite management website set up
+* [first100days](https://github.com/hiroko/first100days)
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [first100days](https://github.com/hiroko/first100days)
+
+** Link(s) to Resources:**
+
+
 ### Day 92: 1/6/2018
 
 **Today’s Progress**
