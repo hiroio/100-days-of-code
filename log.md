@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 94: 1/10/2018
+
+**Today’s Progress**
+* Got accepted for Google Udacity Scholarship
+* Lesson 1 & 2
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [first100days](https://github.com/hiroko/first100days)
+
+
 ### Day 93: 1/7/2018
 
 **Today’s Progress**
@@ -9,6 +27,7 @@
 **Language(s):** HTML, CSS
 
 **Course(s):**
+* [Build Your First Website in 1 Week](https://www.udemy.com/build-your-first-website-in-1-week)
 
 **Thoughts:**  
 
