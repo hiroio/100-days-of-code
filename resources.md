@@ -35,6 +35,7 @@
 * [Dash @ General Assembly](https://dash.generalassemb.ly/)
 * [Hack Design](https://hackdesign.org/)
 * [Flatiron School](https://flatironschool.com/online-campus/#all-courses__free-courses)
+* [HackerRank](https://www.hackerrank.com)
 
 ### Videos
 * [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
@@ -48,6 +49,8 @@
 
 ### Languages
 * [Android Studio](https://developer.android.com/studio/index.html)
+* [Ruby on Rails](http://rubyonrails.org/)
+
 
 ### Accessibility
 * [The A11y Project](http://a11yproject.com/)

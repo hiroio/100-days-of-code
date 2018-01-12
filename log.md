@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 95: 1/11/2018
+
+**Today’s Progress**
+* Signed up for [HackerRank](https://www.hackerrank.com)
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [first100days](https://github.com/hiroko/first100days)
+
+
 ### Day 94: 1/10/2018
 
 **Today’s Progress**
