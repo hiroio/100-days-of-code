@@ -4,11 +4,14 @@
 
 **Today’s Progress**
 * Signed up for [HackerRank](https://www.hackerrank.com)
+* Day 2 of Udacity
+* First meeting #PyLadies
 
 **Language(s):** HTML, CSS
 
 **Course(s):**
 * [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
+* [HackerRank](https://www.hackerrank.com)
 
 **Thoughts:**  
 
