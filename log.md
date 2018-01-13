@@ -1,10 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 96: 1/12/2018
+
+**Today’s Progress**
+* Udacity D3: Lesson 5
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
+* [HackerRank](https://www.hackerrank.com)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [first100days](https://github.com/hiroko/first100days)
+
+
 ### Day 95: 1/11/2018
 
 **Today’s Progress**
 * Signed up for [HackerRank](https://www.hackerrank.com)
-* Day 2 of Udacity
+* Day 2 of Udacity: 4
 * First meeting #PyLadies
 
 **Language(s):** HTML, CSS
@@ -24,7 +42,7 @@
 
 **Today’s Progress**
 * Got accepted for Google Udacity Scholarship
-* Lesson 1 & 2
+* Lesson 1, 2, 3
 
 **Language(s):** HTML, CSS
 
