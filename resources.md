@@ -46,6 +46,7 @@
 * [Color-Hex](http://www.color-hex.com/)
 * [She Can Code](https://shecancode.io/resources/)
 * [Teletype @ Atom](https://teletype.atom.io/)
+* [FrontEndBoard](https://www.frontendboard.com/)
 
 ### Languages
 * [Android Studio](https://developer.android.com/studio/index.html)

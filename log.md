@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 98: 1/14/2018
+
+**Today’s Progress**
+* Udacity D4: Lesson 5, 6
+
+**Language(s):** HTML, CSS
+
+**Course(s):**
+* [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
+* [HackerRank](https://www.hackerrank.com)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [first100days](https://github.com/hiroko/first100days)
+
+
 ### Day 97: 1/13/2018
 
 **Today’s Progress**
