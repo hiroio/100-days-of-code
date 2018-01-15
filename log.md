@@ -3,7 +3,7 @@
 ### Day 99: 1/15/2018
 
 **Today’s Progress**
-* Udacity D4: Lesson 7
+* Udacity D5: Lesson 8, 9, 10, 11
 
 **Language(s):** HTML, CSS
 
@@ -21,7 +21,7 @@
 ### Day 98: 1/14/2018
 
 **Today’s Progress**
-* Udacity D4: Lesson 5, 6
+* Udacity D4: Lesson 6, 7
 
 **Language(s):** HTML, CSS
 
