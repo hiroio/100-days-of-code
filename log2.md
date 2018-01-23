@@ -1,9 +1,27 @@
 # 100 Days Of Code Round 2 - Log
 
+### R2D5: 1/22/2018
+
+**Today’s Progress**
+* Udacity D12: Lesson 12
+* Reading: [How to Become a Web Developer: The Career Changer's Guide](http://amzn.to/2DVcMtl)
+
+**Course(s):**
+* [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
+* [Learn Javascript (Codecademy)](https://www.codecademy.com/courses/learn-javascript-introduction)
+* Reading: [How to Become a Web Developer: The Career Changer's Guide](http://amzn.to/2DVcMtl)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [first100days](https://github.com/hiroko/first100days)
+
+
 ### R2D4: 1/21/2018
 
 **Today’s Progress**
-* Udacity D10: Lesson 12
+* Udacity D11: Lesson 12
 * Reading: [How to Become a Web Developer: The Career Changer's Guide](http://amzn.to/2DVcMtl)
 
 **Course(s):**
