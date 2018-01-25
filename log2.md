@@ -1,5 +1,21 @@
 # 100 Days Of Code Round 2 - Log
 
+### R2D8: 1/25/2018
+
+**Today’s Progress**
+* Learning about MFA
+
+**Course(s):**
+* [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
+* [Learn Javascript (Codecademy)](https://www.codecademy.com/courses/learn-javascript-introduction)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [first100days](https://github.com/hiroko/first100days)
+
+
 ### R2D7: 1/24/2018
 
 **Today’s Progress**
@@ -9,7 +25,6 @@
 **Course(s):**
 * [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
 * [Learn Javascript (Codecademy)](https://www.codecademy.com/courses/learn-javascript-introduction)
-* Reading: [How to Become a Web Developer: The Career Changer's Guide](http://amzn.to/2DVcMtl)
 
 **Thoughts:**  
 
