@@ -4,6 +4,7 @@
 
 **Today’s Progress**
 * Udacity D14: Lesson 12
+* [REST API](http://www.restapitutorial.com/lessons/whatisrest.html)
 
 **Course(s):**
 * [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
