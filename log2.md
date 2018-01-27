@@ -1,5 +1,22 @@
 # 100 Days Of Code Round 2 - Log
 
+### R2D9: 1/27/2018
+
+**Today’s Progress**
+* Intro to Python @ Codecademy
+
+**Course(s):**
+* [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
+* [Learn Javascript (Codecademy)](https://www.codecademy.com/courses/learn-javascript-introduction)
+* [Learn Python (Codecademy)](https://www.codecademy.com/learn/learn-python)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [first100days](https://github.com/hiroko/first100days)
+
+
 ### R2D8: 1/25/2018
 
 **Today’s Progress**
