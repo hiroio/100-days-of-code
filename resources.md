@@ -37,6 +37,9 @@
 * [Flatiron School](https://flatironschool.com/online-campus/#all-courses__free-courses)
 * [HackerRank](https://www.hackerrank.com)
 
+### books
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
 ### Videos
 * [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
 
