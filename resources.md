@@ -39,6 +39,7 @@
 
 ### books
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* [Invent with Python](https://inventwithpython.com/)
 
 ### Videos
 * [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
