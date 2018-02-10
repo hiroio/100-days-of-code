@@ -1,5 +1,41 @@
 # 100 Days Of Code Round 2 - Log
 
+### R2D22: 2/10/2018
+
+**Today’s Progress**
+* [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg) Lesson 13
+
+**Course(s):**
+* [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
+* [Learn Javascript (Codecademy)](https://www.codecademy.com/courses/learn-javascript-introduction)
+* [Learn Python (Codecademy)](https://www.codecademy.com/learn/learn-python)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [first100days](https://github.com/hiroko/first100days)
+
+
+### R2D21: 2/9/2018
+
+**Today’s Progress**
+* Twitter Bot
+
+**Course(s):**
+* [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
+* [Learn Javascript (Codecademy)](https://www.codecademy.com/courses/learn-javascript-introduction)
+* [Learn Python (Codecademy)](https://www.codecademy.com/learn/learn-python)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+**Thoughts:**  
+
+**Link(s) to Work:**
+* [hiroko.io](https://github.com/hiroko/hiroko.io)
+* [first100days](https://github.com/hiroko/first100days)
+
+
 ### R2D20: 2/8/2018
 
 **Today’s Progress**
