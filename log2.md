@@ -6,7 +6,6 @@
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * Update portfolio with writing samples
 
-
 **Course(s):**
 * [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
 * [Learn Javascript (Codecademy)](https://www.codecademy.com/courses/learn-javascript-introduction)
