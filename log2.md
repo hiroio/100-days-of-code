@@ -1,5 +1,11 @@
 # 100 Days Of Code Round 2 - Log
 
+### R2D2: 3/15/2018
+
+**Today’s Progress**
+* AWS CERTIFIED SOLUTIONS ARCHITECT ASSOCIATE 2018: Chapter 1
+
+
 ### R2D1: 3/14/2018
 
 **Today’s Progress**
