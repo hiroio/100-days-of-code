@@ -1,15 +1,12 @@
 # 100 Days Of Code Round 2 - Log
 
-### R2D28: 3/14/2018
+### R2D1: 3/14/2018
 
 **Today’s Progress**
 * AWS CERTIFIED SOLUTIONS ARCHITECT ASSOCIATE 2018: Chapter 1
 
-**Course(s):**
-* [Udacity Google Scholar](https://classroom.udacity.com/courses/ud304-gwg)
-* [Learn Javascript (Codecademy)](https://www.codecademy.com/courses/learn-javascript-introduction)
-* [Learn Python (Codecademy)](https://www.codecademy.com/learn/learn-python)
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+**Thoughts**
+Restarting Round 2 by focusing on spending the next 3.5 months studying for my first AWS exam.
 
 
 ### R2D27: 3/11/2018
