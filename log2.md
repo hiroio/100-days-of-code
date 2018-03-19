@@ -3,7 +3,7 @@
 ### R2D5: 3/19/2018
 
 **Today’s Progress**
-* CBT Nuggets: AWS Technical Essentials: Videos 8 - 10
+* CBT Nuggets: AWS Technical Essentials: Videos 8 - 11
 
 
 ### R2D4: 3/18/2018
