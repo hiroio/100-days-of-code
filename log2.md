@@ -1,5 +1,11 @@
 # 100 Days Of Code Round 2 - Log
 
+### R2D4: 3/18/2018
+
+**Today’s Progress**
+* CBT Nuggets: AWS Technical Essentials: Videos 8
+
+
 ### R2D3: 3/17/2018
 
 **Today’s Progress**
