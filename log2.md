@@ -6,6 +6,8 @@
 * CBT Nuggets: AWS Solutions Architect - Application Services: Video 1
 * CBT Nuggets: AWS Solutions Architect - Networking Services: Videos 1 - 6
 
+* Spun up forst EC2 instance, and did troubleshooting to enable [inbound traffic](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/authorizing-access-to-an-instance.html) for RDP
+
 
 ### R2D9: 3/23/2018
 
