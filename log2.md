@@ -1,12 +1,19 @@
 # 100 Days Of Code Round 2 - Log
 
+### R2D11: 3/25/2018
+
+**Today’s Progress**
+* Update resume on [hiroko.io](http://hiroko.io)
+* Create another EC2 instance for practice
+
+
 ### R2D10: 3/24/2018
 
 **Today’s Progress**
 * CBT Nuggets: AWS Solutions Architect - Application Services: Video 1
 * CBT Nuggets: AWS Solutions Architect - Networking Services: Videos 1 - 6
 
-* Spun up forst EC2 instance, and did troubleshooting to enable [inbound traffic](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/authorizing-access-to-an-instance.html) for RDP
+* Spun up first EC2 instance, and did troubleshooting to enable [inbound traffic](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/authorizing-access-to-an-instance.html) for RDP
 
 
 ### R2D9: 3/23/2018
