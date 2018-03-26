@@ -5,6 +5,7 @@
 **Today’s Progress**
 * Update resume on [hiroko.io](http://hiroko.io)
 * Create another EC2 instance for practice
+* Created HTML for Beginners course
 
 
 ### R2D10: 3/24/2018
