@@ -3,7 +3,7 @@
 ### R2D12: 3/29/2018
 
 **Today’s Progress**
-* CBT Nuggets: AWS Solutions Architect - Networking Services: Videos 7 - 9
+* CBT Nuggets: AWS Solutions Architect - Networking Services: Videos 7 - 10
 
 
 ### R2D11: 3/25/2018
