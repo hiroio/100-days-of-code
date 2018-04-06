@@ -1,5 +1,11 @@
 # 100 Days Of Code Round 2 - Log
 
+### R2D134: 34/6/2018
+
+**Today’s Progress**
+* CBT Nuggets: AWS Solutions Architect - Networking Services: Video 12 - 
+
+
 ### R2D13: 3/30/2018
 
 **Today’s Progress**
