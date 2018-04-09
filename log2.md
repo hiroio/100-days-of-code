@@ -3,14 +3,15 @@
 ### R2D15: 4/9/2018
 
 **Today’s Progress**
-* CBT Nuggets: AWS Solutions Architect - Networking Services: Video 15 - 17
+* CBT Nuggets: AWS Solutions Architect - Networking Services: Videos 15 - 17
 * Completed AWS Solutions Architect - Network Services course
+* CBT Nuggets: AWS Solutions Architect - Database Services: Videos 1
 
 
 ### R2D14: 4/6/2018
 
 **Today’s Progress**
-* CBT Nuggets: AWS Solutions Architect - Networking Services: Video 12 - 14
+* CBT Nuggets: AWS Solutions Architect - Networking Services: Videos 12 - 14
 
 
 ### R2D13: 3/30/2018
