@@ -1,5 +1,11 @@
 # 100 Days Of Code Round 2 - Log
 
+### R2D16: 5/2/2018
+
+**Today’s Progress**
+* AWS Training & Certification: AWS Cloud Practitioner Essentials
+
+
 ### R2D15: 4/9/2018
 
 **Today’s Progress**
