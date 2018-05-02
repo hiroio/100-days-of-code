@@ -3,7 +3,7 @@
 ### R2D16: 5/2/2018
 
 **Today’s Progress**
-* AWS Training & Certification: AWS Cloud Practitioner Essentials
+* AWS Training & Certification: AWS Cloud Practitioner Essentials: Cloud Concepts
 
 
 ### R2D15: 4/9/2018
