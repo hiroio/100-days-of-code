@@ -4,7 +4,7 @@
 
 **Today's Progress**
 * AWS Cloud Practitioner Essentials: Core Services
-
+* CBT Nuggets: AWS Certified Cloud Practitioner: https://www.cbtnuggets.com/it-training/aws-certified-cloud-practitioner 
 
 ### R2D17: 5/3/2018
 
