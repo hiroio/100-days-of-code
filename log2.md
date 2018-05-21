@@ -1,5 +1,11 @@
 # 100 Days Of Code Round 2 - Log
 
+### R2D19: 5/21/2018
+
+**Today's Progress**
+* AWS Cloud Practitioner Essentials: Core Services
+
+
 ### R2D17: 5/3/2018
 
 **Today’s Progress**
