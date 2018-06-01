@@ -1,10 +1,16 @@
 # 100 Days Of Code Round 2 - Log
 
+### R2D20: 6/1/2018
+
+**Today's Progress**
+* AWS Cloud Practitioner: CBT nuggets
+* Edited [hiroko.io](http://hiroko.io)
+
 ### R2D19: 5/21/2018
 
 **Today's Progress**
 * AWS Cloud Practitioner Essentials: Core Services
-* CBT Nuggets: AWS Certified Cloud Practitioner: https://www.cbtnuggets.com/it-training/aws-certified-cloud-practitioner 
+* CBT Nuggets: AWS Certified Cloud Practitioner: https://www.cbtnuggets.com/it-training/aws-certified-cloud-practitioner
 
 ### R2D17: 5/3/2018
 
